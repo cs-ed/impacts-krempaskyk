@@ -20,9 +20,10 @@ This lesson introduces the book that will be used for many of the global impact 
 **Lesson 2.11 Impacts of CS The Digital Explosion** 
 This is the first lesson that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
 
-     Learning Objectives: student will learn to 
+Learning Objectives: student will learn to 
 o	explain how data can be represented using bits 
 o	computing devices represent data digitally, meaning that the lowest-level components of any value are bits 
+
 Language Objectives: student will be able to 
 o	summarize important topics from Chapter 1 of Blown to Bits by identifying main ideas, details and important quotes 
 o	describe how things around me use digital data using key vocabulary out loud and in writing, with the support of vocabulary notes from this lesson. 

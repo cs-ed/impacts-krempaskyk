@@ -16,6 +16,7 @@ At Santa Teresa High School, I teach AP Computer Science Principals using the Mo
 
 **Lesson 1.5 Impacts of CS Blown to Bits BB** 
 This lesson introduces the book that will be used for many of the global impact readings. In this unit, students are simply introduced to the textbook. In Unit 2, they will begin by reading Chapter 1. 
+
 **Lesson 2.11 Impacts of CS The Digital Explosion** 
 This is the first lesson that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
 

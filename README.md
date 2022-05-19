@@ -162,6 +162,47 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             </li>
         </ul>
 
+<p><b>Lesson 3.10 Impacts of CS Electronic Documents </b></p>
+            <ul>
+                <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>
+                <li><b>Experiences and Explorations (10 minutes): </b>
+                </li>
+                <ul>
+                    <li><b>Think-Pair-Share:</b> Why do you think this chapter is called "Ghost in the Machine"? Think about this on your own. Discuss it with a partner. Then share your ideas with the whole class. 
+                    </li>
+                    <li><b>Read Aloud:</b> Read page 73 out loud to the class. Discuss the word "redacted." You may also need to discuss the setting of the chapter and provide background information about the Iraq war. Review the image on the top of page 74 to demonstrate "redact." What was the purpose in blocking out sections of the text? Read the rest of page 74 out loud. 
+                    </li>
+                </ul>
+            </ul>
+        <ul>
+                    <li><b>During Reading Activity (In-Class, 20 minutes or Homework): </b>Have the students read pp. 75-80. As students are reading, ask them to create "Conversation Questions" (template provided in the materials section) by doing the following: 
+                    </li>
+            <ul>
+                <li>Highlight information that is important, surprising or thought provoking. Choose three or four pieces/ideas from the text. </li>
+                <li>Once you have highlighted an idea, jot down a question about that idea that would be interesting to talk about with your classmates. Make your questions open-ended, that is questions that cannot be answered with simple one-word responses. Your open-ended questions may start with some of the following: </li>
+                <ul>
+                    <li>What did you think… </li>
+                    <li>Why do you think… </li>
+                    <li>How did you feel about… </li>
+                    <li>How could… </li>
+                </ul>
+                <li>Now try to think about a time when something similar happened to you or share a time when you learned about something being shared on the Internet that was considered private. 
+                </li>
+            </ul>
+          </ul>
+        <ul>
+            <li><b>Making Connections: Small Group Discussion (20 minutes): </b>Break class up into groups of 2-4 students. Have students pose one of the discussion questions they created. Groups should then discuss each question. Once students have each asked a question, have students share an example of something that happened to them or that they read about that was similar in nature to what is presented in the chapter. Ask them to consider what advice they might give to the military and/or journalists to protect secret/protected information when posting on the Internet? Take a couple of minutes to check in with students about what they read. </li>
+            <li><b>During Reading Activity (In-Class, 25 minutes or Homework): </b>Have the students read pp. 80-94, "Representation, Reality, and Illusion.” As students are reading, they should complete a "Now That’s Surprising" reading response sheet. (A template is provided in the materials section.) Each student should respond to four ideas from the text by completing the following: </li>
+            <ul>
+                <li>An idea that interests me or surprised me (include page #) </li>
+                <li>What do I think about it? </li>
+                <li>Why does it matter? </li>
+            </ul>
+            <li><b>Making Connections: Small Group Discussion (20 minutes): </b>In their groups, have students share one idea from the reading that was interesting or surprising to them and what they thought about it. Then have students share examples of photo and video editing that they may have heard about. Ask them to think about their school pictures and what kind of editing happens to them. Have them create a timeline of audio formats (i.e. albums to 8-tracks to tapes to CDs to MP3 files) and then predict what the next digital audio format might be like. Take a couple of minutes to check in with students about what they read. </li>
+            <li><b>During Reading Activity (In-Class, 25 minutes or Homework):</b> Have the students complete the steganography survey question then read pp. 95-99, "Hiding Information in Images." After reading this section, students should complete the steganography activity where they use a bitmap editor to hide three letters in an image following an algorithm for changing the decimal values of the pixel colors. Make sure students decode their images so they can check their work. If they're struggling, it might help to write the numbers down on paper with the byte values below each one. Students who finish early can start work on their portfolio reflections.</li>
+            <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>Have the students complete their portfolio reflections. Share portfolio responses, especially the free response questions. If time, share the BBC article about steganography being used with color printers and how it has impacted detective work. </li>
+        </ul>
+        
 
 
 ### Assessment

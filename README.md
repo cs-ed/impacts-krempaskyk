@@ -100,9 +100,11 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 ### Learning Activities
 **Lesson 2.11 Impacts of CS The Digital Explosion**
 **Day 1 (45 minutes)** 
-- Hook/Motivation (5 Minutes): 
-- Ask the students to look around their classroom and identify things that process digital data, or bits. This might include: computers, calculators, light switches (with sensors), smart boards, projectors, phones/tablets, etc. Keep a running list on the board for them to see. 
-- Explain to students that Chapter 1 of Blown to Bits makes the point that today everything is digital -- that is, everything is represented by binary digits or bits. And it provides some provocative examples of the societal implications of this digital explosion. Direct students to read Chapter 1 to learn more about how digital our world has become. 
+<ul>
+<li>Hook/Motivation (5 Minutes): 
+<li>Ask the students to look around their classroom and identify things that process digital data, or bits. This might include: computers, calculators, light switches (with sensors), smart boards, projectors, phones/tablets, etc. Keep a running list on the board for them to see. </li?
+<li>Explain to students that Chapter 1 of Blown to Bits makes the point that today everything is digital -- that is, everything is represented by binary digits or bits. And it provides some provocative examples of the societal implications of this digital explosion. Direct students to read Chapter 1 to learn more about how digital our world has become. </li></li>
+
 - Experiences and Explorations (25 minutes): 
 - Introduce the textbook to the students and give them the Double Entry Journal Template to record their thoughts. Students should read pg. 1-4 in Chapter 1 of Blown to Bits and Koan 4. Students should record at least 4 quotes or thoughts in the journal. 
 - In small groups of 3-4 students, discuss the reading. Have each student share at least one of their quotes from the reading. 

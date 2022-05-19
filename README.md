@@ -28,11 +28,11 @@ o	computing devices represent data digitally, meaning that the lowest-level comp
 
 Language Objectives: student will be able to 
 o	summarize important topics from Chapter 1 of Blown to Bits by identifying main ideas, details and important quotes 
-o	describe how things around me use digital data using key vocabulary out loud and in writing, with the support of vocabulary notes from this lesson. 
+o	describe how things around me use digital data using key vocabulary out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy">vocabulary notes</> from this lesson. 
  
 **Lesson 3.10 Impacts of CS Electronic Documents** 
 
-This lesson focuses on some of the positive and negative implications of the fact that today "it's all bits" -- i.e., all digital information, including text, pictures, videos, and apps, are represented by binary digits. It focuses on the enduring understanding that variety of abstractions built on binary sequences can be used to represent all digital data. Students will read a section of the Blown to bits that focuses on digital documents. They'll learn about how meta data in a document can be used to identify who created or modified the document, and how the bits that make up an image can be used to hide secret messages, a technique known as steganography. 
+<a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Impacts-of-CS-Electronic-Documents.html">This lesson</a> focuses on some of the positive and negative implications of the fact that today "it's all bits" -- i.e., all digital information, including text, pictures, videos, and apps, are represented by binary digits. It focuses on the enduring understanding that variety of abstractions built on binary sequences can be used to represent all digital data. Students will read a section of the Blown to bits that focuses on digital documents. They'll learn about how meta data in a document can be used to identify who created or modified the document, and how the bits that make up an image can be used to hide secret messages, a technique known as <em>steganography</em>. 
 
 Learning Objectives: student will be able to 
 o	describe digital models and their renderings as abstractions
@@ -41,7 +41,7 @@ o	describe what information can be extracted from metadata
 
 Language Objectives: student will be able to 
 o	discuss the beneficial and harmful effects of computing innovations
-o	use target vocabulary, such as modeling, and render, while discussing digital models, with the support of concept definitions and vocabulary notes from this lesson
+o	use target vocabulary, such as modeling, and render, while discussing digital models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy">vocabulary notes</a> from this lesson
 
 **Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity** 
 

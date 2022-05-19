@@ -41,7 +41,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 **Language Objectives:** student will be able to 
 - discuss the beneficial and harmful effects of computing innovations
-- use target vocabulary, such as <p style="color:green">modeling</p>, and render, while discussing digital models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy">vocabulary notes</a> from this lesson
+- use target vocabulary, such as <font color="green">>modeling</font>, and render, while discussing digital models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy">vocabulary notes</a> from this lesson
 
 **Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity** 
 

@@ -220,7 +220,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                     <li>Write a paragraph that explains any data privacy, security, or storage concerns related to the computing innovation. </li>
                 </ul>
             </ul>
-            <ul>
+            
                 <li><b>Reading Activity (In-Class, 25 minutes or Homework): </b>Students should read Chapter 2 to learn about some of the ways our electronic devices impinge on our privacy. Students should complete a Double-Entry Journal as they read Chapter 2. (A template is provided in the chapter’s materials list.) The students’ journal should summarize and comment on at least four quotes or summarized ideas that the authors bring forward in this chapter. </li>
                 <ul>
                     <li>Ask students to share an item or two from the chapter that they included in their Double-Entry Journal. They can share an idea from the text which they thought was important and then can tell what they thought about the idea. </li>
@@ -237,7 +237,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <ul>
                 <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
             </ul>
-        </ul>
+       
 
 
 ### Assessment

@@ -23,12 +23,12 @@ At Santa Teresa High School, I teach AP Computer Science Principals using the <a
 This is the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Impacts-of-CS-The-Digital-Explosion.html">first lesson</a> that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
 
 **Learning Objectives:** student will learn to 
-o	explain how data can be represented using bits 
-o	computing devices represent data digitally, meaning that the lowest-level components of any value are bits 
+-explain how data can be represented using bits 
+-computing devices represent data digitally, meaning that the lowest-level components of any value are bits 
 
 **Language Objectives:** student will be able to 
-o	summarize important topics from Chapter 1 of Blown to Bits by identifying main ideas, details and important quotes 
-o	describe how things around me use digital data using key vocabulary out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy">vocabulary notes</a> from this lesson. 
+-summarize important topics from Chapter 1 of Blown to Bits by identifying main ideas, details and important quotes 
+-describe how things around me use digital data using key vocabulary out loud and in writing, with the support of <a href="https://docs.google.com/presentation/d/1n-K4AQ_maHcXekzcfERQ9dxj91nqv9ytwJx4ZkAp8zw/copy">vocabulary notes</a> from this lesson. 
  
 **Lesson 3.10 Impacts of CS Electronic Documents** 
 

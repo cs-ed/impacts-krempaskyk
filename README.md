@@ -16,7 +16,7 @@ At Santa Teresa High School, I teach AP Computer Science Principals using the Mo
 
 **Lesson 1.5 Impacts of CS Blown to Bits BB** 
 
-<a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Impacts-of-CS-Blown-to-Bits-BB.html>This lesson </a>introduces the book that will be used for many of the global impact readings. In this unit, students are simply introduced to the textbook. In Unit 2, they will begin by reading Chapter 1. 
+<a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit1-Getting-Started/Impacts-of-CS-Blown-to-Bits-BB.html">This lesson </a>introduces the book that will be used for many of the global impact readings. In this unit, students are simply introduced to the textbook. In Unit 2, they will begin by reading Chapter 1. 
 
 **Lesson 2.11 Impacts of CS The Digital Explosion** 
 

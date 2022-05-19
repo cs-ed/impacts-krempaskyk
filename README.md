@@ -98,7 +98,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 
 ### Learning Activities
-**Lesson 2.11 Impacts of CS The Digital Explosion**
+**Lesson 2.11 Impacts of CS The Digital Explosion**<br>
 **Day 1 (45 minutes)** 
 <ul>
 <li>Hook/Motivation (5 Minutes): 

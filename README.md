@@ -6,7 +6,7 @@
 
 **Grade:** High School (9-12) 
 
-**How societal impacts be incorporated into the course:** 
+**Societal Impacts to be incorporated into the course:** 
 
 At Santa Teresa High School, I teach AP Computer Science Principals using the <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">Mobile Computer Science Principles</a> framework. Some of the questions asked of students are altered and lessons are supplemented with other material. Throughout the year, impacts of technology on society as well as ethics are discussed, using the book, Blown to Bits, as the main resource. 
 

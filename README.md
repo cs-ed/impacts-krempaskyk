@@ -202,7 +202,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>During Reading Activity (In-Class, 25 minutes or Homework):</b> Have the students complete the steganography survey question then read pp. 95-99, "Hiding Information in Images." After reading this section, students should complete the steganography activity where they use a bitmap editor to hide three letters in an image following an algorithm for changing the decimal values of the pixel colors. Make sure students decode their images so they can check their work. If they're struggling, it might help to write the numbers down on paper with the byte values below each one. Students who finish early can start work on their portfolio reflections.</li>
             <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>Have the students complete their portfolio reflections. Share portfolio responses, especially the free response questions. If time, share the BBC article about steganography being used with color printers and how it has impacted detective work. </li>
         </ul>
-        <b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b>
+        <p><b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b></p>
         <ul>
             <li><b>Hook/Motivation (5 minutes): </b>Introduce the lesson and the idea of digital data privacy and privacy concerns using the introduction part of the lesson. Explain to students that Chapter 2 of Blown to Bits makes the point that focuses on the issue of how the digital explosion affects our privacy. This is an especially important issue for today's mobile computing generation because our smart phones and tablets cannot only track our electronic correspondence, they can track our whereabouts, opening whole new areas of potential privacy infringements. Define PII and cookies. </li>
             <li><b>Explore Curricular Activity (95 minutes): </b></li>
@@ -220,26 +220,21 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                     <li>Write a paragraph that explains any data privacy, security, or storage concerns related to the computing innovation. </li>
                 </ul>
             </ul>
-            
-                <li><b>Reading Activity (In-Class, 25 minutes or Homework): </b>Students should read Chapter 2 to learn about some of the ways our electronic devices impinge on our privacy. Students should complete a Double-Entry Journal as they read Chapter 2. (A template is provided in the chapter’s materials list.) The students’ journal should summarize and comment on at least four quotes or summarized ideas that the authors bring forward in this chapter. </li>
+            <li><b>Reading Activity (In-Class, 25 minutes or Homework): </b>Students should read Chapter 2 to learn about some of the ways our electronic devices impinge on our privacy. Students should complete a Double-Entry Journal as they read Chapter 2. (A template is provided in the chapter’s materials list.) The students’ journal should summarize and comment on at least four quotes or summarized ideas that the authors bring forward in this chapter. </li>
+            <ul>
+                <li>Ask students to share an item or two from the chapter that they included in their Double-Entry Journal. They can share an idea from the text which they thought was important and then can tell what they thought about the idea. </li>
+                <li>Working in teams, ask students to discuss the questions for Chapter 2 and have the students record their answers in their Google portfolio. </li>
+                <li>Ask each team to share its answers for one of the portfolio questions. Other groups can add their ideas once groups have shared. All students can make additions and revisions to their responses in the Google portfolios. </li>
+                <li>Ask students the following questions: </li>
                 <ul>
-                    <li>Ask students to share an item or two from the chapter that they included in their Double-Entry Journal. They can share an idea from the text which they thought was important and then can tell what they thought about the idea. </li>
-                    <li>Working in teams, ask students to discuss the questions for Chapter 2 and have the students record their answers in their Google portfolio. </li>
-                    <li>Ask each team to share its answers for one of the portfolio questions. Other groups can add their ideas once groups have shared. All students can make additions and revisions to their responses in the Google portfolios. </li>
-                    <li>Ask students the following questions: </li>
-                    <ul>
-                        <li>Are you concerned about digital privacy? </li>
-                        <li>Are you willing to give up your privacy for convenience? </li>
-                        <li>What are the pros and cons of giving up privacy? </li>
-                    </ul>
+                    <li>Are you concerned about digital privacy? </li>
+                    <li>Are you willing to give up your privacy for convenience? </li>
+                    <li>What are the pros and cons of giving up privacy? </li>
                 </ul>
             </ul>
-            <ul>
-                <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
-            </ul>
-       
-
-
+            <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
+        </ul> 
+        
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.

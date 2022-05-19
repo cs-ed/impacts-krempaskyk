@@ -129,8 +129,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 </ul>
             </li>
         </ul>
-    <p>
-        <b>Day 2 (45 minutes) </b>
+        <p><b>Day 2 (45 minutes) </b></p>
         <ul>
             <li>
                 <b>Hook/Motivation (15 Minutes): </b>
@@ -161,7 +160,6 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                     </li>
                 </ul>
             </li>
-            </p>
         </ul>
 
 

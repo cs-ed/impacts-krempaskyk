@@ -84,7 +84,7 @@ o	use target vocabulary, such as crowdsourcing while describing the impact of ci
 
 **Lesson 7.8 Impacts of CS Who Owns the Bits**
 
-This lesson focuses on the question of use and ownership of digital media, including copyrighted media. It describes how file sharing algorithms should work and discusses some of the sensational cases in the battle between large media companies and users who use file sharing sites to share music and other media. Computing can play a role in social and political issues, which often raise legal and ethical concerns, especially if it is used to harm people.
+<a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Impacts-of-CS-Who-Owns-the-Bits.html">This lesson</a> focuses on the question of use and ownership of digital media, including copyrighted media. It describes how file sharing algorithms should work and discusses some of the sensational cases in the battle between large media companies and users who use file sharing sites to share music and other media. Computing can play a role in social and political issues, which often raise legal and ethical concerns, especially if it is used to harm people.
 
 **Learning Objectives:** student will be able to
 o	define copyright and explain what different levels of copyright mean

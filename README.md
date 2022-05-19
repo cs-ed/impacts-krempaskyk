@@ -22,7 +22,7 @@ At Santa Teresa High School, I teach AP Computer Science Principals using the <a
 
 This is the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Impacts-of-CS-The-Digital-Explosion.html">first lesson</a> that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
 
-**Learning Objectives:** student will learn to 
+**Learning Objectives:** student will be able to 
 - explain how data can be represented using bits 
 - computing devices represent data digitally, meaning that the lowest-level components of any value are bits 
 
@@ -35,66 +35,66 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit3-Creating-Graphics-Images/Impacts-of-CS-Electronic-Documents.html">This lesson</a> focuses on some of the positive and negative implications of the fact that today "it's all bits" -- i.e., all digital information, including text, pictures, videos, and apps, are represented by binary digits. It focuses on the enduring understanding that variety of abstractions built on binary sequences can be used to represent all digital data. Students will read a section of the Blown to bits that focuses on digital documents. They'll learn about how meta data in a document can be used to identify who created or modified the document, and how the bits that make up an image can be used to hide secret messages, a technique known as <em>steganography</em>. 
 
 **Learning Objectives:** student will be able to 
-o	describe digital models and their renderings as abstractions
-o	differentiate between data and metadata
-o	describe what information can be extracted from metadata
+- describe digital models and their renderings as abstractions
+- differentiate between data and metadata
+- describe what information can be extracted from metadata
 
 **Language Objectives:** student will be able to 
-o	discuss the beneficial and harmful effects of computing innovations
-o	use target vocabulary, such as modeling, and render, while discussing digital models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy">vocabulary notes</a> from this lesson
+- discuss the beneficial and harmful effects of computing innovations
+- use target vocabulary, such as modeling, and render, while discussing digital models, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1Pfrv_g1AGKNFPmgir1uGApfHtkhB783Te5kzVz5FZ8c/copy">vocabulary notes</a> from this lesson
 
 **Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity** 
 
 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit4-Animation-Simulation-Modeling/Impacts-of-CS-Privacy-Explore-Curricular-Activity.html">This lesson</a> focuses on the global impact issue of privacy and security. Students are encouraged to think more deeply about the data trails that they leave as they use computers and what their responsibilities are while developing mobile apps. There is an optional debate activity where students can delve deeper into the topic of privacy. 
 
-**Learning Objectives:** student will learn to
-o	understand how private information can be collected and exploited
-o	consider how data is used in apps I write and how it needs to be protected
-o	discuss ethical implications of data collection
+**Learning Objectives:** student will be able to
+- understand how private information can be collected and exploited
+- consider how data is used in apps I write and how it needs to be protected
+- discuss ethical implications of data collection
 
 **Language Objectives:** student will be able to
-o	identify and describe data privacy, data security, and data storage concerns of computing innovations
-o	use target vocabulary, such as cookies and Personally Identifiable Information (PTI) while discussing privacy concerns, with the support of concept definitions and vocabulary notes from this lesson
+- identify and describe data privacy, data security, and data storage concerns of computing innovations
+- use target vocabulary, such as cookies and Personally Identifiable Information (PTI) while discussing privacy concerns, with the support of concept definitions and vocabulary notes from this lesson
 
 **Lesson 5.10 Impacts of CS Web Searches**
 
 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit5-Algorithms-Procedural-Abstraction/Impacts-of-CS-Web-Searches.html">In this lesson</a>, students read Chapter 4: Needles in the Haystack of Blown to Bits. 
 
 **Learning Objectives:** student will be able to
-o	describe the algorithm Google uses to return search results
-o	identify factors that affect web searches
-o	describe how web search results may not be trustworthy
+- describe the algorithm Google uses to return search results
+- identify factors that affect web searches
+- describe how web search results may not be trustworthy
 
 **Language Objectives:** student will be able to
-o	describe risks to privacy from collecting and storing personal data on a computer system
-o	discuss positive and negative impacts of how search trends are used to predict information
-o	use target vocabulary, such as search, trend, and captcha while describing web searches, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy">vocabulary notes</a> from this lesson
+- describe risks to privacy from collecting and storing personal data on a computer system
+- discuss positive and negative impacts of how search trends are used to predict information
+- use target vocabulary, such as search, trend, and captcha while describing web searches, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy">vocabulary notes</a> from this lesson
 
 **Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps**
 
 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit6-Communication-Through-Internet/Impacts-of-CS-Crowdsourcing-with-Citizen-Science-Apps.html">This lesson</a> explores a computing innovation, citizen science apps, which use crowdsourcing to solve science problems. This lesson also gives students an opportunity to practice analyzing a computing innovation for its purpose, the data it uses and produces, and potential beneficial and harmful effects. 
 
 **Learning Objectives:** student will be able to
-o	explain how people participate in problem-solving processes at scale
-o	research the impact of a computing innovation on society, economy, and culture
-o	describe how the use of computing innovations can raise legal, ethical, and privacy concerns
+- explain how people participate in problem-solving processes at scale
+- research the impact of a computing innovation on society, economy, and culture
+- describe how the use of computing innovations can raise legal, ethical, and privacy concerns
 
 **Language Objectives:** student will be able to
-o	use target vocabulary, such as crowdsourcing while describing the impact of citizen science apps, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy">vocabulary notes</a> from this lesson
+-use target vocabulary, such as crowdsourcing while describing the impact of citizen science apps, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1qwoJ0sNiiLFbv1KN_xW7yLpXUQLfYD8lxxZWPYjqdIY/copy">vocabulary notes</a> from this lesson
 
 **Lesson 7.8 Impacts of CS Who Owns the Bits**
 
 <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit7-Using-Analyzing-Data/Impacts-of-CS-Who-Owns-the-Bits.html">This lesson</a> focuses on the question of use and ownership of digital media, including copyrighted media. It describes how file sharing algorithms should work and discusses some of the sensational cases in the battle between large media companies and users who use file sharing sites to share music and other media. Computing can play a role in social and political issues, which often raise legal and ethical concerns, especially if it is used to harm people.
 
 **Learning Objectives:** student will be able to
-o	define copyright and explain what different levels of copyright mean
-o	explain the role of the government as it relates to copyrighted materials, specifically the Digital Millennium Copyright Act
-o	consider my role as a consumer of digital media in regards to downloads, sharing, and otherwise interacting with copyrighted material
-o	consider my role as an app developer in regards to fair use of copyrighted material
+- define copyright and explain what different levels of copyright mean
+- explain the role of the government as it relates to copyrighted materials, specifically the Digital Millennium Copyright Act
+- consider my role as a consumer of digital media in regards to downloads, sharing, and otherwise interacting with copyrighted material
+- consider my role as an app developer in regards to fair use of copyrighted material
 
 **Language Objectives:** student will be able to
-o	explain how the use of computing can raise legal and ethical concerns
-o	use target vocabulary, such as Creative Commons, fair use, DRM, and peer-to-peer while describing issues pertaining to copyright, with the support of concept definitions from this lesson
+- explain how the use of computing can raise legal and ethical concerns
+- use target vocabulary, such as Creative Commons, fair use, DRM, and peer-to-peer while describing issues pertaining to copyright, with the support of concept definitions from this lesson
 
 
 ### Learning Activities

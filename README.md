@@ -173,3 +173,11 @@ Describe how you plan to assess the learning objectives described above.
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+
+
+Lesson 3.10 Impacts of CS Electronic Documents 
+•	Hook/Motivation (5 minutes): For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits. 
+•	Experiences and Explorations (10 minutes): 
+o	Think-Pair-Share: Why do you think this chapter is called "Ghost in the Machine"? Think about this on your own. Discuss it with a partner. Then share your ideas with the whole class. 
+o	Read Aloud: Read page 73 out loud to the class. Discuss the word "redacted." You may also need to discuss the setting of the chapter and provide background information about the Iraq war. Review the image on the top of page 74 to demonstrate "redact." What was the purpose in blocking out sections of the text? Read the rest of page 74 out loud. 
+![image](https://user-images.githubusercontent.com/89755960/169366592-cad8b443-8403-4507-b7dd-e9e0f35b69b1.png)

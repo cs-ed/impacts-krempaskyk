@@ -68,7 +68,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 **Language Objectives:** student will be able to
 - describe risks to privacy from collecting and storing personal data on a computer system
 - discuss positive and negative impacts of how search trends are used to predict information
-- use target vocabulary, such as search, trend, and captcha while describing web searches, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy">vocabulary notes</a> from this lesson
+- use target vocabulary, such as <em>search, trend</em>, and <em>captcha</em> while describing web searches, with the support of concept definitions and <a href="https://docs.google.com/presentation/d/1-IY5fs_ygKlgwUGBD9nX_tx_tFerN7pEeQvdgQIwrdw/copy">vocabulary notes</a> from this lesson
 
 **Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps**
 

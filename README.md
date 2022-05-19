@@ -20,7 +20,7 @@ At Santa Teresa High School, I teach AP Computer Science Principals using the Mo
 
 **Lesson 2.11 Impacts of CS The Digital Explosion** 
 
-This is the first lesson that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
+This is the <a href="https://runestone.academy/runestone/books/published/mobilecsp/Unit2-Intro-to-Mobile-Apps/Impacts-of-CS-The-Digital-Explosion.html">first lesson</a> that focuses explicitly on the societal impact of computing. Students will read the first chapter of the Blown to Bits book about the "digital explosion" - i.e., the idea that all of today's content (movies, books, images, sounds, etc.) is represented as bits (0s and 1s) and that the amount of such data is growing exponentially. In this and future Blown to Bits lessons, students will read and discuss and reflect upon various ways that computing affects their lives. This is one of the primary ways the global impact of computing, both positive and negative, is reinforced in the course. 
 
 Learning Objectives: student will learn to 
 o	explain how data can be represented using bits 

@@ -480,6 +480,55 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 <li>How do we leave digital "footprints and fingerprints?" Do you think this is important for everyone to know? Why or why not?</li>
             </ol>
         </ul>
+        <p><b><u> Lesson 5.10 Impacts of CS Web Searches</u></b></p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <ul style="list-style-type: none;">
+            <li><b>Reflection in Portfolio:</b></li>
+            <li><b>Explore Curricular Activities:</b></li>
+            <ol>
+                <li>How do web search tools make it more efficient to find information?</li>
+                <li>When you type a word or phrase into the Google search engine, what is the search algorithm that is being used? Explain in your own words the process used by Google's search engine.</li>
+                <li>What is a captcha? How has the collective efforts of Internet users contributed to analyzing images through captchas?</li>
+                <li>"The architecture of human knowledge has changed as a result of search." Do you agree? Explain your reasoning.</li>
+                <li>What are the differences between Figures 4.10 and Figure 4.11 in the book? Why are there differences even though they are both a Google search results page?</li>
+                <li>How do you think mobile computing might have influenced web searches?</li>
+                <li>Would you retain your search history or delete it? Why?</li>
+                <li>Should a researcher place absolute trust in a search engine? Why or why not?</li>
+                <li>The authors claim "search is a new form of control over information" (p. 111) and "search is power" (p. 145). Why might it be important to talk about the social implications of searching on the Internet?</li>
+                <li>How have search trends been used to predict information? What are the positive and negative impacts of using trends to make predictions?</li>
+                <li>Find and read an article about web searches or algorithms. Write a 3-4 paragraph summary of the article. Include the author's name, the title of the article, the date it was published, and a link to the article.</li>
+            </ol>
+        </ul>
+        <ul style="list-style-type: none;">
+            <li><b>Differentiation: Enrichment </b></li>
+            <li>Students could explore current events related to the chapter's topics: </li>
+            <ul>
+                <li>Here's an article from the Washington Post about Google's research paper on <a href="https://www.washingtonpost.com/news/the-intersect/wp/2015/03/02/google-has-developed-a-technology-to-tell-whether-facts-on-the-internet-are-true/">incorporating "truth" into page rankings</a>. </li>
+                <li>Here's another article about the 2016 elections: <a href="http://www.politico.com/magazine/story/2015/08/how-google-could-rig-the-2016-election-121548.html#.Vdt4O_lViko">How Google Could Rig the 2016 Election</a></li>
+            </ul>
+        </ul>
+        <p><b><u> Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</u></b></p>
+        <p style="padding-left: 25px; line-height: 0x;"><b>Reflection in Portfolio:</b></p>
+        <ol>
+            <li><b>(Activity)</b> Which citizen science app did you explore? What is the purpose of the app?  Describe the functionality of the app.</li>
+            <li><b>(Activity)</b> What data does the app use and how does the app use the data collected?</li>
+            <li><b>(Activity)</b> What are the intended positive impacts of your citizen science app? What might be some unintended negative impacts? You might consider impacts on society, the economy, culture, etc.</li>
+        </ol>
+        <p><b><u> Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <ol>
+            <li>In your own words, define the concept of copyright. Why should all Internet users be aware of copyrighted material?</li>
+            <li>What is the difference between digital and printed documents that makes it easier to violate copyright law with digital ones?</li>
+            <li>What is a peer-to-peer architecture? Provide an example of at least one well-known peer-to-peer network.</li>
+            <li>What is the DMCA and why is it significant to copyright, especially with regards to electronic works (documents, images, videos, etc.)?</li>
+            <li>What are Open Access and Creative Commons? How have they impacted the sharing of digital information?</li>
+            <li>The Blown to Bits book is released under a Creative Commons (CC) license, specifically the Attribution-NonCommercial-ShareAlike 3.0 license. What does this license allow people other than the authors to do? What is the relationship between the original Blown to Bits book and the newer, Blown to Bits (version 2.0) book? Did the authors of the newer version stay true to the CC license? How can you tell? (Optional) If your favorite book or movie was released with a CC license, how would you change it? </li>
+            <li>The chapter describes three peer-to-peer networks, each of which can be used to share copyrighted works illegally. Why did the courts find that Napster and Grokster were liable for the illegal activities of its users, while BitTorrent is not?</li>
+            <li>What effect have streaming services such as Netflix and Spotify had on illegal downloading activities?</li>
+            <li>Why was it important for Jack Andraka to have access to research articles? In general, how has access to information helped to identify problems, develop solutions, and disseminate results?</li>
+            <li>What is your responsibility as an app developer in regards to the fair use of copyrighted works such as images and music? Give one example use of a copyrighted work in an app that follows fair use guidelines and one example that violates fair use guidelines.</li>
+            <li>In your opinion, are YouTube users violating copyright terms when they make lyric videos? Why or why not?</li>
+        </ol>
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.

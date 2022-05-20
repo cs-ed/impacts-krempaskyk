@@ -435,7 +435,51 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 <li>The chapter (on page 14) specifically mentions the positive and negative uses of encryption to keep emails to friends private but also allows terrorists to plan attacks undetected. Students could read and discuss articles related to the FBI's request of Apple to have them provide a backdoor decryption mechanism. <a href="http://www.cnbc.com/2016/03/29/apple-vs-fbi-all-you-need-to-know.html">CNBC</a> provides a nice break-down of the key issues. </li>
             </ul>
         </ul>
-
+<p><b><u> Lesson 3.10 Impacts of CS Electronic Documents </u></b></p>
+        <ul style="list-style-type: none;">
+            <li><b>Reflection done in digital portfolio:</b></li>
+            <li><b>Short Answer</b></li>
+            <ol>
+                <li>What is metadata? Give an example of how a piece of metadata could be used to increase the usefulness of an image or document.What is metadata? Give an example of how a piece of metadata could be used to increase the usefulness of an image or document.</li>
+                <li>What is a model?</li>
+                <li>What's the difference between a raster image and an ASCII representation of a text document?</li>
+                <li>What are filename extensions? What are they used for?</li>
+                <li>What is lossless representation? What is lossy representation? What are the trade-offs in using each representation?</li>
+                <li>What is steganography and what is it used for? Describe in your own words the steganography algorithm used in the activity.</li>
+                <li>What would you have to do to delete a document from your computer so that it could not possibly be read by anyone else?</li>
+                <li>What is free and open source software? Provide an example.</li>
+            </ol>
+            <li><b>Free Response</b></li>
+            <ol>
+                <li>How has retouching become a controversial issue? Give an example.</li>
+                <li>Would you rather own a camera (or camera phone) with a higher number of megapixels or lower? Explain.</li>
+                <li>Other than digital images, what might be an example of a computer model? Explain your answer based on the definition of a model.</li>
+                <li>The code that implements App Inventor is open source and its impact on education is obvious. Find another example of open source software and describe its positive impact on education, business or society.</li>
+            </ol>
+        </ul>
+        <p><b><u> Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </u></b></p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <ul style="list-style-type: none;">
+            <li><b>Reflection in Portfolio:</b></li>
+            <li><b>Explore Curricular Activities:</b></li>
+            <ol>
+                <li>[Activity Part 1] Earlier in the course, you built the Map Tour app.</li>
+                <ul style="list-style-type: none;">
+                    <li>a. In the final version, what data, including data type, is collected from the user?</li>
+                    <li>b.	Does the user know the data is being collected?</li>
+                    <li>c.	Can they opt out of providing data and still use the app?</li>
+                </ul>
+                <li>[Activity Part 2] How have social media platforms such as Twitter, Instagram, Snapchat, etc. affected our privacy?</li>
+                <li>[Activity Part 3] Is it possible to identify someone, perhaps a patient, knowing just the gender, birth date, and zip code? Why or why not?</li>
+                <li>[Activity Part 4] Name the computing innovation you explored. Paste your paragraph from Activity Part 4 here.</li>
+            </ol>
+            <li><b>Blown to Bits Chapter 2:</b></li>
+            <ol start="5">
+                <li>Is the Privacy Act effective? Explain why or why not.</li>
+                <li>Are you willing to trade some of your privacy for the convenience of having a computer or a company recommend products to you? Why or why not? Under what circumstances?</li>
+                <li>How do we leave digital "footprints and fingerprints?" Do you think this is important for everyone to know? Why or why not?</li>
+            </ol>
+        </ul>
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.

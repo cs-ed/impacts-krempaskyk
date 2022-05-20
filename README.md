@@ -482,10 +482,10 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
         </ul>
         <p><b><u> Lesson 5.10 Impacts of CS Web Searches</u></b></p>
         <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
-        <ul style="list-style-type: none;">
+        <ul style="list-style-type: none">
             <li><b>Reflection in Portfolio:</b></li>
             <li><b>Explore Curricular Activities:</b></li>
-            <ol>
+            <ol start="1">
                 <li>How do web search tools make it more efficient to find information?</li>
                 <li>When you type a word or phrase into the Google search engine, what is the search algorithm that is being used? Explain in your own words the process used by Google's search engine.</li>
                 <li>What is a captcha? How has the collective efforts of Internet users contributed to analyzing images through captchas?</li>

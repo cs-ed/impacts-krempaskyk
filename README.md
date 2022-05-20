@@ -406,9 +406,35 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 <li><b>Wrap up (5 minutes): </b>Have students share an idea about copyright with the class. Discuss ideas they have about finding content such as images, sounds, and music for their apps that are free to use. </li>
             </ul>
         </ul>
+        
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
+<p style="line-height: 5px;"><b>Lesson 2.11 Impacts of CS The Digital Explosion </b></p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson. </p>
+        <ul >
+            <li><b>Portfolio Reflections:</b></li>
+            <ul style="list-style-type: none;">
+                <li>LO 2.1.1 - Students should be able to describe how bits are used to store many different kinds of data (photos, files, video, etc.) </li>
+                <li>LO 7.3.1 - Students should be able to describe how the digital explosion has both positive and negative impacts. Common examples include saving someone's life by using the cell phone to locate them (positive) and bullying on social media (negative). </li>
+            </ul>
+            <li><b>In the class discussion, look for:</b></li>
+            <ul style="list-style-type: none;">
+                <li>- Identification of both positive and negative impacts, without an overwhelming set of positive impacts </li>
+                <li>- Completion of the double entry journal to help guide discussion </li>
+            </ul>
+        </ul>
+        <ul>
+            <li><b>Differentiation: More Practice </b></li>
+            <ul>
+                <li>If students are struggling with the reading, consider making the readings in-class activities (silent reading or in groups) instead of a homework activity. After reading, students could make a slide for their assigned pages resulting in a collaborative class presentation for the chapter. Here is a Google presentation <a href="https://docs.google.com/presentation/d/1JmPL4QOV6-OHGoR7mOJ-u-fa2Kni0SZKvWO3ieSjGlM/edit#slide=id.p">template for Chapter 1</a>. </li>
+                <li>Students could use the Chapter 1 vocabulary list to create flash cards or to re-write the definitions in their own words. </li>
+                <li>Here's <a href="https://www.youtube.com/watch?v=aWLBmapcJRU">a brief video</a> animation that explains the topic of Moore's Law. </li>
+            </ul>
+            <li><b>Differentiation: Enrichment</b> </li>
+            <ul>
+                <li>The chapter (on page 14) specifically mentions the positive and negative uses of encryption to keep emails to friends private but also allows terrorists to plan attacks undetected. Students could read and discuss articles related to the FBI's request of Apple to have them provide a backdoor decryption mechanism. <a href="http://www.cnbc.com/2016/03/29/apple-vs-fbi-all-you-need-to-know.html">CNBC</a> provides a nice break-down of the key issues. </li>
+            </ul>
+        </ul>
 
 ### Outcomes
 

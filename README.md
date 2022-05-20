@@ -337,6 +337,13 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 <li><b>Discussion Ideas:</b>Have students share an important concept about "searches". What did they learn about different search engines? How are they the same or different? How do they believe Google has most impacted society? </li>
             </ul>
         </ul>
+        <p><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></p>
+        <ul>
+            <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
+            <li><b>Experiences and Exploration (15-60 minutes): </b>Watch Episode 1 of The Crowd and the Cloud. If you do not have time to watch the entire hour-long episode, then focus on the OpenStreetMap [16:55-28:30] and EyesOnALZ [28:30-41:57] segments. </li>
+            <li><b>Experiences and Exploration (30 minutes): </b>Students can work individually or in pairs to select an app from the <a href="http://crowdandcloud.org/join-a-project">Join a Project</a> page and answer the questions on purpose, data, and effects. Students should discuss the answers to their questions with another student or pair of students. </li>
+            <li><b>Reflect and Revise (5 minutes): </b>Ask students to record their answers in their portfolios.</li>
+        </ul>
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.

@@ -108,19 +108,19 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
           </ul>
      </li>
      <li><b>Experiences and Explorations (25 minutes):</b>
-                    <ul>
-                        <li>Introduce the textbook to the students and give them the Double Entry Journal Template to record their thoughts. Students should read pg. 1-4 in Chapter 1 of Blown to Bits and Koan 4. Students should record at least 4 quotes or thoughts in the journal. </li>
-                        <li>In small groups of 3-4 students, discuss the reading. Have each student share at least one of their quotes from the reading. </li>
-                        <li>Ask each group to share one idea from their discussion with the whole class. </li>
-                    </ul>
-            </li>
-            <li><b>Rethink, Reflect, and Revise (10 minutes):</b>
-                <ul>
-                    <li>Introduce the journal assignment and hand out the tracking your technology use template. (See directions on student side). Ask students to make predictions of how many different objects they will interact with that process digital data, or bits. </li>
-                </ul>
-            </li>
-        </ul>
-        <p style="padding-left: 25px"><b>Day 2 (45 minutes) </b></p>
+         <ul>
+             <li>Introduce the textbook to the students and give them the Double Entry Journal Template to record their thoughts. Students should read pg. 1-4 in Chapter 1 of Blown to Bits and Koan 4. Students should record at least 4 quotes or thoughts in the journal. </li>
+             <li>In small groups of 3-4 students, discuss the reading. Have each student share at least one of their quotes from the reading. </li>
+             <li>Ask each group to share one idea from their discussion with the whole class. </li>
+         </ul>
+     </li>
+     <li><b>Rethink, Reflect, and Revise (10 minutes):</b>
+         <ul>
+             <li>Introduce the journal assignment and hand out the tracking your technology use template. (See directions on student side). Ask students to make predictions of how many different objects they will interact with that process digital data, or bits. </li>
+             </ul>
+      </li>
+</ul>
+<p style="padding-left: 25px"><b>Day 2 (45 minutes) </b></p>
         <ul>
             <li><b>Hook/Motivation (15 Minutes): </b>
                 <ul>

@@ -98,10 +98,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 
 ### Learning Activities
-<p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
-        <p style="padding-left: 20px;"><b>Day 1</b></p>
-**Lesson 2.11 Impacts of CS The Digital Explosion<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 (45 Minutes)**
+<p><b><u>Lesson 2.11 Impacts of CS The Digital Explosion</u></b></p>
+<p style="padding-left: 20px;"><b>Day 1</b></p>
 <ul>            
      <li><b>Hook/Motivation (5 Minutes):</b>
          <ul>
@@ -147,7 +145,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 </ul>
             </li>
         </ul> 
-<p><b>Lesson 3.10 Impacts of CS Electronic Documents </b></p>
+<p><b><u>Lesson 3.10 Impacts of CS Electronic Documents </u></b></p>
             <ul>
                 <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>
                 <li><b>Experiences and Explorations (10 minutes): </b>
@@ -187,7 +185,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>During Reading Activity (In-Class, 25 minutes or Homework):</b> Have the students complete the steganography survey question then read pp. 95-99, "Hiding Information in Images." After reading this section, students should complete the steganography activity where they use a bitmap editor to hide three letters in an image following an algorithm for changing the decimal values of the pixel colors. Make sure students decode their images so they can check their work. If they're struggling, it might help to write the numbers down on paper with the byte values below each one. Students who finish early can start work on their portfolio reflections.</li>
             <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>Have the students complete their portfolio reflections. Share portfolio responses, especially the free response questions. If time, share the BBC article about steganography being used with color printers and how it has impacted detective work. </li>
         </ul>
-        <p><b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b></p>
+        <p><b><u>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </u></b></p>
         <ul>
             <li><b>Hook/Motivation (5 minutes): </b>Introduce the lesson and the idea of digital data privacy and privacy concerns using the introduction part of the lesson. Explain to students that Chapter 2 of Blown to Bits makes the point that focuses on the issue of how the digital explosion affects our privacy. This is an especially important issue for today's mobile computing generation because our smart phones and tablets cannot only track our electronic correspondence, they can track our whereabouts, opening whole new areas of potential privacy infringements. Define PII and cookies. </li>
             <li><b>Explore Curricular Activity (95 minutes): </b></li>

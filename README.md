@@ -328,7 +328,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
-<p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p>
+<p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p
 <ul>
  <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
  <li><b>Experiences and Exploration (15-60 minutes): </b>Watch Episode 1 of The Crowd and the Cloud. If you do not have time to watch the entire hour-long episode, then focus on the OpenStreetMap [16:55-28:30] and EyesOnALZ [28:30-41:57] segments. </li>
@@ -352,16 +352,14 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
     <ul>
      <li><b>Read-Aloud (5 minutes): </b>Read the opening story from Chapter 6 to the class (pp. 195-196) about Tanya Andersen. </li>
      <li><b>Discussion (10 minutes): </b>
-      <ul>
-       <li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
-       <li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
-       <li>How might this be possible? </li>
-      </ul>
-     </li>
-     <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
+     <li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
+     <li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
+     <li>How might this be possible? </li>
     </ul>
    </li>
+   <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
   </ul>
+ </li>
  <li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
   <ul>
    <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
@@ -381,7 +379,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
-
+</li>
+</ul>
 <p style="padding-left: 20px;"><b>Day 2</b></p>
 <ul>
  <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:

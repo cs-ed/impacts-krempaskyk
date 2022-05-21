@@ -102,7 +102,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 ### Learning Activities
 
-<p><b><u>Lesson 2.11 Impacts of CS The Digital Explosion</u></b></p>
+<p><b><u><a href="https://1drv.ms/p/s!Ai4rrtIykb3V3AUZz9WPX2_7QbnH?e=dAgDUI">Lesson 2.11 Impacts of CS The Digital Explosion</a></u></b></p>
 <p style="padding-left: 20px;"><b>Day 1</b></p>
 <ul>            
      <li><b>Hook/Motivation (5 Minutes):</b>
@@ -149,7 +149,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 </ul>
             </li>
         </ul> 
-<p><b><u>Lesson 3.10 Impacts of CS Electronic Documents </u></b></p>
+<p><b><u><a href="https://1drv.ms/p/s!Ai4rrtIykb3V3Fz7g1ciLqCU8AJo?e=fiOinC">Lesson 3.10 Impacts of CS Electronic Documents </a></u></b></p>
 <ul>
      <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>
      <li><b>Experiences and Explorations (10 minutes): </b>
@@ -187,7 +187,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>During Reading Activity (In-Class, 25 minutes or Homework):</b> Have the students complete the steganography survey question then read pp. 95-99, "Hiding Information in Images." After reading this section, students should complete the steganography activity where they use a bitmap editor to hide three letters in an image following an algorithm for changing the decimal values of the pixel colors. Make sure students decode their images so they can check their work. If they're struggling, it might help to write the numbers down on paper with the byte values below each one. Students who finish early can start work on their portfolio reflections.</li>
             <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>Have the students complete their portfolio reflections. Share portfolio responses, especially the free response questions. If time, share the BBC article about steganography being used with color printers and how it has impacted detective work. </li>
         </ul>
-<p><u><b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b></u></p>
+<p><u><b><a href="https://1drv.ms/p/s!Ai4rrtIykb3V3hV0KGmmdLZoriR-?e=uBfglm">Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </a></b></u></p>
 <ul>
  <li><b>Hook/Motivation (5 minutes): </b>Introduce the lesson and the idea of digital data privacy and privacy concerns using the introduction part of the lesson. Explain to students that Chapter 2 of Blown to Bits makes the point that focuses on the issue of how the digital explosion affects our privacy. This is an especially important issue for today's mobile computing generation because our smart phones and tablets cannot only track our electronic correspondence, they can track our whereabouts, opening whole new areas of potential privacy infringements. Define PII and cookies. </li>
  <li><b>Explore Curricular Activity (95 minutes): </b>
@@ -224,7 +224,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
  <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
 </ul>
-<p><u><b>Lesson 5.10 Impacts of CS Web Searches</b></u></p>
+<p><u><b><a href="https://1drv.ms/p/s!Ai4rrtIykb3V4AyOUW9CS0EUB_KS?e=RDbrSy">Lesson 5.10 Impacts of CS Web Searches</a></b></u></p>
 <p style="padding-left: 20px;"><b>Part 1</b></p>
 <p style="padding-left: 20px;"><b>Lesson/Starter/Hook (16 minutes)</b></p>
 <ul>
@@ -332,14 +332,14 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
-<p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u>
+<p><u><b><a href="https://1drv.ms/p/s!Ai4rrtIykb3VjNp5T8oHQWtFCAe4sg?e=EkKbYD">Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</a></b></u>
 <ul>
  <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
  <li><b>Experiences and Exploration (15-60 minutes): </b>Watch Episode 1 of The Crowd and the Cloud. If you do not have time to watch the entire hour-long episode, then focus on the OpenStreetMap [16:55-28:30] and EyesOnALZ [28:30-41:57] segments. </li>
  <li><b>Experiences and Exploration (30 minutes): </b>Students can work individually or in pairs to select an app from the <a href="http://crowdandcloud.org/join-a-project">Join a Project</a> page and answer the questions on purpose, data, and effects. Students should discuss the answers to their questions with another student or pair of students. </li>
  <li><b>Reflect and Revise (5 minutes): </b>Ask students to record their answers in their portfolios.</li>
 </ul>
-<p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
+<p><b><u><a href="https://1drv.ms/p/s!Ai4rrtIykb3VjNxQhTnbAJUKknwG5Q?e=PTnlq3">Lesson 7.8 Impacts of CS Who Owns the Bits</a></u></b></p>
 <p><b>Day 1</b></p>
 <ul>
  <li><b>Hook/Motivation (10 minutes): </b>Ask students to complete the Anticipation Guide. Once they are finished responding to the questions, ask them how they responded. Then ask students where they get images and music. Is it copyrighted? What is meant by "copyright"? What if you use copyrighted material for a project you are creating like an app? </li>
@@ -417,6 +417,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 #### Assessment
 The lessons end with multiple choice questions, some from the AP College Board website, in the PowerPoint slides. Students will typically answer the questions vocally, as a group, and I will call on one student to explain why that answer is correct and the others are not. While Mobile CSP references a “portfolio,” I find it a lot easier to have students submit assignments directly to me via Google Classroom. Assignments are usually a group assignment (POGIL) and an individual reflection. The groups have been preassigned and change throughout the year so students have the opportunity to work with everyone in the class. Only one of the group member’s work is graded with all students in the group receiving that grade. The members do not know who will be chosen for grading. I keep a running tally of which member of each group has been used to keep it fair.
 
+<p><b>Lesson 1.5 Impacts of CS Blown to Bits BB </b></p>
+<p style="padding-left: 25px;">This lesson does not include any type of assessment. It is just a small introductory lesson where I show students where to find the digital copy of the book I placed in the Google Drive for them.</p>
 <p style="line-height: 5px;"><b>Lesson 2.11 Impacts of CS The Digital Explosion </b></p>
 <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson. </p>
 <ul>

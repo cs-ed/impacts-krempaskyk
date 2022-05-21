@@ -120,7 +120,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
              </ul>
       </li>
 </ul>
-<p style="padding-left: 25px"><b>Day 2 (45 minutes)</b></p>
+<p><b>Day 2 (45 minutes)</b></p>
 <ul>
  <li><b>Hook/Motivation (15 Minutes): </b>
           <ul>
@@ -133,7 +133,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) </li>
            <li>Students should get into groups of 4, then use the Debate Team Carousel handout with one of the following questions/topics. Each group can have the same or a different topic.
             <ul>
-             <li><a href="https://www.diigo.com/user/mobilecsp">Select topics based on the list of current events articles at diigo.com/user/mobilecsp. </a></li
+             <li><a href="https://www.diigo.com/user/mobilecsp">Select topics based on the list of current events articles at diigo.com/user/mobilecsp. </a></li>
              <li>Examples of Questions: Should voting be electronic? Should apps be used to help track and diagnose mental health? Should digital assistants (such as Alexa) talk like humans? </li>
             </ul>
            </li>

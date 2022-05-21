@@ -122,7 +122,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 </ul>
 <p style="padding-left: 25px"><b>Day 2 (45 minutes)</b></p>
 <ul>
-     <li><b>Hook/Motivation (15 Minutes): </b>
+ <li><b>Hook/Motivation (15 Minutes): </b>
           <ul>
                <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
           </ul>
@@ -139,7 +139,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
            </li>
       </ul>
  </li>
-            <li><b>Rethink, Reflect, and Revise (10 minutes): </b>
+ <li><b>Rethink, Reflect, and Revise (10 minutes): </b>
                 <ul>
                     <li>Pick a current real-world example that students can explore. (Examples might be Google Glass, Apple Watch, FitBits) Students should describe what the product/initiative is and also discuss its positive and negative implications on life in the Digital Age. Students will need to find a similar example for their portfolio reflection. </li>
                 </ul>
@@ -234,9 +234,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>Video:</b>Show students Google's <a href="http://www.youtube.com/watch?feature=player_embedded&v=mTBShTwCnD4#t=262">The Evolution of Search (6 minutes) </a></li>
             <li><b>Discussion/Explanation: </b>Explain that students saw from the searching and sorting algorithms, there can be more than one algorithm to solve a particular problem. For web searches, different search engines use different search algorithms. Google has its patented PageRank algorithm as part of its search algorithm. </li>
         </ul>
-        <ul style="list-style-type: none;">
-            <li><b>Experiences and Explorations </b></li>
-        </ul>
+        <p style="padding-left: 20px;"><b>Experiences and Explorations </b></p>
         <ul>
             <li><b>Partner activity (10 minutes): </b>Working in pairs, have students sign into Google and go to their Google web history (<a href="http://myactivity.google.com/">myactivity.google.com</a>). Have them also visit Google Trends (<a href="http://trends.google.com/">trends.google.com</a>) to see top searches and other search trend information. </li>
             <ul>

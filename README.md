@@ -414,7 +414,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
 </ul>
 
-### Assessment
+#### Assessment
+The lessons end with multiple choice questions, some from the AP College Board website, in the PowerPoint slides. Students will typically answer the questions vocally, as a group, and I will call on one student to explain why that answer is correct and the others are not. While Mobile CSP references a “portfolio,” I find it a lot easier to have students submit assignments directly to me via Google Classroom. Assignments are usually a group assignment (POGIL) and an individual reflection. The groups have been preassigned and change throughout the year so students have the opportunity to work with everyone in the class. Only one of the group member’s work is graded with all students in the group receiving that grade. The members do not know who will be chosen for grading. I keep a running tally of which member of each group has been used to keep it fair.
 
 <p style="line-height: 5px;"><b>Lesson 2.11 Impacts of CS The Digital Explosion </b></p>
 <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson. </p>

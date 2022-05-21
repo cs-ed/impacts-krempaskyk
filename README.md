@@ -664,7 +664,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li>Material created on a computer is the intellectual property of the creator or an organization.</li>
         </ul>
 --------------------------------------------------------------------------------------------------------------------
-### Resources
-Teach mobile CSP. Teach Mobile CSP - Teach Mobile CSP. (n.d.). Retrieved May 21, 2022, from <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">https://runestone.academy/ns/books/published/teach-mobilecsp/index.html</a>
 
+### Resources
+
+Teach mobile CSP. Teach Mobile CSP - Teach Mobile CSP. (n.d.). Retrieved May 21, 2022, from <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">https://runestone.academy/ns/books/published/teach-mobilecsp/index.html</a>
 

@@ -415,7 +415,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
 </ul>
 
-### Assessment
+### Assessment 
+
 <p>The lessons end with multiple choice questions, some from the AP College Board website, in the PowerPoint slides. Students will typically answer the questions vocally, as a group, and I will call on one student to explain why that answer is correct and the others are not. While Mobile CSP references a “portfolio,” I find it a lot easier to have students submit assignments directly to me via Google Classroom. Assignments are usually a group assignment (POGIL) and an individual reflection. The groups have been preassigned and change throughout the year so students have the opportunity to work with everyone in the class. Only one of the group member’s work is graded with all students in the group receiving that grade. The members do not know who will be chosen for grading. I keep a running tally of which member of each group has been used to keep it fair.</p>
 
 <p><b>Lesson 1.5 Impacts of CS Blown to Bits BB </b></p>
@@ -423,7 +424,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 <p style="line-height: 5px;"><b>Lesson 2.11 Impacts of CS The Digital Explosion </b></p>
 <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on the interactive exercise and their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson. </p>
 <ul>
- <li><b>Portfolio Reflections:</b>
+ <li><b>Portfolio <a href="https://1drv.ms/w/s!Ai4rrtIykb3V5SAwhSh_3xPTtkyK?e=hBD8sU">Reflections</a>:</b>
   <ul style="list-style-type: none;">
    <li>LO 2.1.1 - Students should be able to describe how bits are used to store many different kinds of data (photos, files, video, etc.) </li>
    <li>LO 7.3.1 - Students should be able to describe how the digital explosion has both positive and negative impacts. Common examples include saving someone's life by using the cell phone to locate them (positive) and bullying on social media (negative). </li>
@@ -452,7 +453,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 </ul>
 <p><b><u> Lesson 3.10 Impacts of CS Electronic Documents </u></b></p>
         <ul style="list-style-type: none;">
-            <li><b>Reflection done in digital portfolio:</b></li>
+            <li><b><a href:"https://1drv.ms/w/s!Ai4rrtIykb3V8B9N81KxB4FUhwm0?e=apcSpQ">Reflection</a> done in portfolio:</b></li>
             <li><b>Short Answer</b></li>
             <ol>
                 <li>What is metadata? Give an example of how a piece of metadata could be used to increase the usefulness of an image or document.What is metadata? Give an example of how a piece of metadata could be used to increase the usefulness of an image or document.</li>
@@ -473,8 +474,17 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             </ol>
         </ul>
         <p><b><u> Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </u></b></p>
-        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
-        <ul style="list-style-type: none;">
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflections to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+<ul>
+ <li><b>Interactive Exercise:</b>
+  <ul>
+   <li><a href="https://1drv.ms/w/s!Ai4rrtIykb3V3mFo299ip11eY2bU?e=SDRseJ">Pogil 1:  Data Collection Devices and Data Types Reference</a></li>
+   <li><a href="https://1drv.ms/w/s!Ai4rrtIykb3V5SzZFZNiKVnO5nxE?e=qNNu6S">Pogil 2:  Classifying Data</a></li>
+   <li><a href="https://1drv.ms/w/s!Ai4rrtIykb3V5S6rVQTkqiype61K?e=Xgkgu7">Pogil 3: Collecting Data</a></li>
+  </ul>
+ </li>
+</ul>
+         <ul style="list-style-type: none;">
             <li><b>Reflection in Portfolio:</b></li>
             <li><b>Explore Curricular Activities:</b></li>
             <ol>

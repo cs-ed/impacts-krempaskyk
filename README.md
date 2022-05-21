@@ -98,6 +98,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 
 ### Learning Activities
+<p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
+        <p style="padding-left: 20px;"><b>Day 1</b></p>
 **Lesson 2.11 Impacts of CS The Digital Explosion<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 (45 Minutes)**
 <ul>            

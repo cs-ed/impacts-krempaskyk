@@ -380,8 +380,8 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
     </li>
    </ul>
   </li>
- </ul>
- <p style="padding-left: 20px;"><b>Day 2</b></p>
+</ul>
+<p style="padding-left: 20px;"><b>Day 2</b></p>
  <ul>
   <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:
    <ul>

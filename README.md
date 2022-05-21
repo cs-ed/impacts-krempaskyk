@@ -556,7 +556,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li>In your opinion, are YouTube users violating copyright terms when they make lyric videos? Why or why not?</li>
         </ol>
         
-### Outcome
+**Outcome**
 <p>Part of the Mobile CSP teacher curriculum includes suggestions for inclusivity. The class population should be a representation of the school population, but it isn't. This is not the only subject that I teach, so I am able to discuss and show some of the amazing things that are happening in Computer Science to those other students. The one full time Computer Science teacher we have on campus is female with a Computer Science degree and experience in the industry. I will eventually be taking over for her when she retires (hopefully not too soon). I am also female. What I <b>am</b> seeing are female students who have fathers that are in some portion of the technology industry and the daughters want to follow in their footsteps! </p>
 <p>It is not uncommon to have students that are not proficient in the English language. With this being an AP course, the students are presented with words or terms that thay may not understand. There are two particular things that I do to help these student. The first is that I remind them they are sitting in front of a computer, which is a very powerful tool they can use to help them. The second is I will use the word in context to help them figure out a meaning for themselves. </p>
 <p>I encourage students to work with the people to their left and right. They work as a team and help explain information to each other in a way that they both understand. If something needs to be clarified, I help with context clues. I make sure to call on each student at some point in the class. It is difficult because there are those students who will always answer out loud, so there is a period of "training" that happens so students know when choral response is the way to answer, or wait for a student's name to be called so the individual student can answer.</p> 
@@ -664,8 +664,10 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li>Material created on a computer is the intellectual property of the creator or an organization.</li>
         </ul>
 
-### Resources
+**Resources**
 
-Teach mobile CSP. Teach Mobile CSP - Teach Mobile CSP. (n.d.). Retrieved May 21, 2022, from <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">https://runestone.academy/ns/books/published/teach-mobilecsp/index.html</a>
+<p>Teach mobile CSP. Teach Mobile CSP - Teach Mobile CSP. (n.d.). Retrieved May 21, 2022, from <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">https://runestone.academy/ns/books/published/teach-mobilecsp/index.html</a></p>
 
-Discover AP. Advanced Placement® (AP) – The College Board. (n.d.). Retrieved May 21, 2022, from https://ap.collegeboard.org/?navId=www-ap 
+<p>Discover AP. Advanced Placement® (AP) – The College Board. (n.d.). Retrieved May 21, 2022, from https://ap.collegeboard.org/?navId=www-ap </p>
+
+<p>Code.org. (n.d.). Retrieved May 21, 2022, from https://studio.code.org/courses/csp-2021/standards </p>

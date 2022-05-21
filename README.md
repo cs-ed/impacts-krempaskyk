@@ -415,8 +415,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
 </ul>
 
-### Assessment
-
+### Assessments
 <p>The lessons end with multiple choice questions, some from the AP College Board website, in the PowerPoint slides. Students will typically answer the questions vocally, as a group, and I will call on one student to explain why that answer is correct and the others are not. While Mobile CSP references a “portfolio,” I find it a lot easier to have students submit assignments directly to me via Google Classroom. Assignments are usually a group assignment (POGIL) and an individual reflection. The groups have been preassigned and change throughout the year so students have the opportunity to work with everyone in the class. Only one of the group member’s work is graded with all students in the group receiving that grade. The members do not know who will be chosen for grading. I keep a running tally of which member of each group has been used to keep it fair.</p>
 
 <p><b>Lesson 1.5 Impacts of CS Blown to Bits BB </b></p>
@@ -545,7 +544,9 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li>What is your responsibility as an app developer in regards to the fair use of copyrighted works such as images and music? Give one example use of a copyrighted work in an app that follows fair use guidelines and one example that violates fair use guidelines.</li>
             <li>In your opinion, are YouTube users violating copyright terms when they make lyric videos? Why or why not?</li>
         </ol>
-### Outcomes
+        
+### Outcome
+
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 

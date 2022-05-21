@@ -381,33 +381,33 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
    </ul>
   </li>
  </ul>
-<p style="padding-left: 20px;"><b>Day 2</b></p>
-<ul>
- <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:
-  <ul>
-   <li>"How does Fortress prevent people who’ve bought its material from copying and redistributing it?" </li>
-   <li>What if you were the owner of the company? What might you do to protect your digital material? </li>
-  </ul>
- </li>
- <li><b>Experiences and Exploration (40 minutes):  </b>
-  <ul>
-   <li><b>Review the concepts from this reading (10 minutes):</b> Have students use the knowledge they have gained in this chapter to complete the Concept Bank worksheet regarding the following terms: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA),Open access and creative commons. Concept Bank Directions: 
-    <ul>
-     <li>Students should first define the concept in their own words. </li>
-     <li>Next students should sketch a picture in the box provided of what the term looks like to them. </li>
-     <li>Finally, students should make connections to the term--personally or to the world around them. How does this term to connect to the world around them? </li>
-    </ul>
-   </li>
-   <li><b>In-Class Reading (30 minutes): </b>Have students read (with a partner or as individuals) the rest of Chapter 6 (pp. 212-228) and ask them to expand their responses in each category on the Concept Bank worksheet. </li>
-  </ul>
- </li>
- <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>
-  <ul>
-   <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the Chapter 6 questions in their portfolio entry.  </li>
-   <li><b>Wrap up (5 minutes): </b>Have students share an idea about copyright with the class. Discuss ideas they have about finding content such as images, sounds, and music for their apps that are free to use. </li>
-  </ul>
- </li>
-</ul>
+ <p style="padding-left: 20px;"><b>Day 2</b></p>
+ <ul>
+  <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:
+   <ul>
+    <li>"How does Fortress prevent people who’ve bought its material from copying and redistributing it?" </li>
+    <li>What if you were the owner of the company? What might you do to protect your digital material? </li>
+   </ul>
+  </li>
+  <li><b>Experiences and Exploration (40 minutes):  </b>
+   <ul>
+    <li><b>Review the concepts from this reading (10 minutes):</b> Have students use the knowledge they have gained in this chapter to complete the Concept Bank worksheet regarding the following terms: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA),Open access and creative commons. Concept Bank Directions: 
+     <ul>
+      <li>Students should first define the concept in their own words. </li>
+      <li>Next students should sketch a picture in the box provided of what the term looks like to them. </li>
+      <li>Finally, students should make connections to the term--personally or to the world around them. How does this term to connect to the world around them? </li>
+     </ul>
+    </li>
+    <li><b>In-Class Reading (30 minutes): </b>Have students read (with a partner or as individuals) the rest of Chapter 6 (pp. 212-228) and ask them to expand their responses in each category on the Concept Bank worksheet. </li>
+   </ul>
+  </li>
+  <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>
+   <ul>
+    <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the Chapter 6 questions in their portfolio entry.  </li>
+    <li><b>Wrap up (5 minutes): </b>Have students share an idea about copyright with the class. Discuss ideas they have about finding content such as images, sounds, and music for their apps that are free to use. </li>
+   </ul>
+  </li>
+ </ul>
         
 ### Assessment
 

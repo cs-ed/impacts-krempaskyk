@@ -220,99 +220,116 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
  <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
 </ul>
-        <p><u><b>Lesson 5.10 Impacts of CS Web Searches</b></u><br><b>Part 1</b><br><b>Lesson/Starter/Hook (16 minutes)</b></p>
+        <p><u><b>Lesson 5.10 Impacts of CS Web Searches</b></u></p>
+        <p style="padding-left: 20px;"><b>Part 1</b></p>
+        <p style="padding-left: 20px;"><b>Lesson/Starter/Hook (16 minutes)</b></p>
         <ul>
-            <li><b>Reflecting in Writing (5 minutes) : Ask students to journal on the following questions: </b></li>
-            <ul>
-                <li>What do you notice about your own internet searches? </li>
-                <li>What search engines have you tried? </li>
-                <li>Does Google predict your searches? </li>
-                <li>If you use another search engine besides Google, do you get the same results? </li>
-                <li>Which search engine is “right”? Which is “better”? </li>
-            </ul>
-            <li><b>Discussion (5 minutes):</b></li>
-            <ul>
-                <li>Ask students to share their responses.</li>
-            </ul>
+            <li><b>Reflecting in Writing (5 minutes) : Ask students to journal on the following questions: </b>
+                <ul>
+                    <li>What do you notice about your own internet searches? </li>
+                    <li>What search engines have you tried? </li>
+                    <li>Does Google predict your searches? </li>
+                    <li>If you use another search engine besides Google, do you get the same results? </li>
+                    <li>Which search engine is “right”? Which is “better”? </li>
+                </ul>
+            </li>
+            <li><b>Discussion (5 minutes):</b>
+                <ul>
+                    <li>Ask students to share their responses.</li>
+                </ul>
+            </li>
             <li><b>Video:</b>Show students Google's <a href="http://www.youtube.com/watch?feature=player_embedded&v=mTBShTwCnD4#t=262">The Evolution of Search (6 minutes) </a></li>
             <li><b>Discussion/Explanation: </b>Explain that students saw from the searching and sorting algorithms, there can be more than one algorithm to solve a particular problem. For web searches, different search engines use different search algorithms. Google has its patented PageRank algorithm as part of its search algorithm. </li>
         </ul>
-        <p style="padding-left: 20px;"><b>Experiences and Explorations </b></p>
+        <p style="padding-left: 20px;"><b>Experiences and Explorations </b></p>        
         <ul>
-            <li><b>Partner activity (10 minutes): </b>Working in pairs, have students sign into Google and go to their Google web history (<a href="http://myactivity.google.com/">myactivity.google.com</a>). Have them also visit Google Trends (<a href="http://trends.google.com/">trends.google.com</a>) to see top searches and other search trend information. </li>
-            <ul>
-                <li>Identify: Top searches by day and by hour; Top clicks (what’s been clicked on the most); most visited websites; listing of all previous searches; monthly search activity. </li>
-                <li>Class discussion: Why are search trends important for corporations like Google to know? Who might want to know about search trends? How could this be used? </li>
-            </ul>
-            <li><b>Chapter 4-Part 1: pp. 109-137 (45 Minutes) </b></li>
-            <ul>
-                <li>Read the opening story (pp. 109-110) from Chapter 4 to the class about Rosalie Polotsky. </li>
-                <li><b>Discussion (10 minutes): </b>The author says, “Search is a wondrous, transformative technology, which both fulfills dreams and shapes human knowledge” (p. 110) </li>
+            <li><b>Partner activity (10 minutes): </b>Working in pairs, have students sign into Google and go to their Google web history (<a href="http://myactivity.google.com/">myactivity.google.com</a>). Have them also visit Google Trends (<a href="http://trends.google.com/">trends.google.com</a>) to see top searches and other search trend information.
                 <ul>
-                    <li>Do you agree with this statement? Why or why not?</li>
+                    <li>Identify: Top searches by day and by hour; Top clicks (what’s been clicked on the most); most visited websites; listing of all previous searches; monthly search activity. </li>
+                    <li>Class discussion: Why are search trends important for corporations like Google to know? Who might want to know about search trends? How could this be used? </li>
                 </ul>
-                <li>Set the stage for chapter - How do search algorithms work? How can a search engine find so many things about a topic? </li>
-                <li>Explain: In the next section of the book we are going to do a prediction and then read several sections with the following titles: </li>
-                <li>Post the following section titles where everyone can see them: </li>
+            </li>
+            <li><b>Chapter 4-Part 1: pp. 109-137 (45 Minutes) </b>
                 <ul>
-                    <li>Page 110- The Library and the Bazaar </li>
-                    <li>Page 113- Forbidden Knowledge is Only a Click Away </li>
-                    <li>Page 117- The Fall of Hierarchy </li>
-                    <li>Page 120- It Matters How it Works </li>
+                    <li>Read the opening story (pp. 109-110) from Chapter 4 to the class about Rosalie Polotsky. </li>
+                    <li><b>Discussion (10 minutes): </b>The author says, “Search is a wondrous, transformative technology, which both fulfills dreams and shapes human knowledge” (p. 110)
+                        <ul>
+                            <li>Do you agree with this statement? Why or why not?</li>
+                        </ul>
+                    </li>
+                    <li>Set the stage for chapter - How do search algorithms work? How can a search engine find so many things about a topic? </li>
+                    <li>Explain: In the next section of the book we are going to do a prediction and then read several sections with the following titles: </li>
+                    <li>Post the following section titles where everyone can see them:
+                        <ul>
+                            <li>Page 110- The Library and the Bazaar </li>
+                            <li>Page 113- Forbidden Knowledge is Only a Click Away </li>
+                            <li>Page 117- The Fall of Hierarchy </li>
+                            <li>Page 120- It Matters How it Works </li>
+                        </ul>
+                    </li>
+                    <li>Have students work with a partner to complete the reading prediction table: Each group should choose one (or more if time) of the titles to do this activity. Have partner groups predict what they think the section(s) is about. Remind them that the overall chapter is about Internet searches.</li>
+                    <li>Section: Example: It Matters How it Works
+                        <ul>
+                            <li><b>My Prediction:</b></li>
+                            <li><b>What the text actually stated:</b></li>
+                        </ul>
+                    </li>
+                    <li><b>In-Class Silent Reading (30 minutes): </b>After the groups have completed their predictions, give students time to read pp. 110-137. Have partners check their predictions with what they actually read with their partner and have them write a few sentences about what the text stated in their section <b>(5 minutes)</b> . Tell partners they should identify one surprising or interesting statement from their section with the class. </li>
                 </ul>
-                <li>Have students work with a partner to complete the reading prediction table: Each group should choose one (or more if time) of the titles to do this activity. Have partner groups predict what they think the section(s) is about. Remind them that the overall chapter is about Internet searches.</li>
-                <li>Section: Example: It Matters How it Works </li>
-                <ul>
-                    <li><b>My Prediction:</b></li>
-                    <li><b>What the text actually stated:</b></li>
-                </ul>
-                <li><b>In-Class Silent Reading (30 minutes): </b>After the groups have completed their predictions, give students time to read pp. 110-137. Have partners check their predictions with what they actually read with their partner and have them write a few sentences about what the text stated in their section <b>(5 minutes)</b> . Tell partners they should identify one surprising or interesting statement from their section with the class. </li>
-            </ul>
+            </li>
             <li><b>Discussion:</b>Call on a few groups to share their predictions and what they learned. Have groups go to the shared Google doc and share two or three new things they learned about searches. Display the Google.doc where everyone can see it as students are sharing what they learned from the reading. </li>
-            <li><b>Rethink, Reflect and/or Revise </b></li>
-            <ul>
-                <li><b>Portfolio Homework (10 minutes): </b>Have students complete the portfolio questions.</li>
-                <li><b>Wrap up (5 minutes): </b>Ask the students: Based on what you read today, should search engine users delete or retain their search history? Why? (Free Response Question 4). </li>
-            </ul>
+            <li><b>Rethink, Reflect and/or Revise </b>
+                <ul>
+                    <li><b>Portfolio Homework (10 minutes): </b>Have students complete the portfolio questions.</li>
+                    <li><b>Wrap up (5 minutes): </b>Ask the students: Based on what you read today, should search engine users delete or retain their search history? Why? (Free Response Question 4). </li>
+                </ul>
+            </li>
         </ul>
-        <p><b>Part 2<br>Hook/Motivation (10 Minutes) </b></p>
+        <p style="padding-left: 20px;"><b>Part 2</b></p>
+        <p style="padding-left: 20px;"><b>Hook/Motivation (10 Minutes) </b></p>
         <ul>
-            <li><b>Discussion:</b>Ask students: </li>
-            <ul>
-                <li>What do you know about the history of searching for web content? </li>
-                <li>Do you think it is appropriate for your searches to be tracked? </li>
-            </ul>
+            <li><b>Discussion:</b>Ask students:
+                <ul>
+                    <li>What do you know about the history of searching for web content? </li>
+                    <li>Do you think it is appropriate for your searches to be tracked? </li>
+                </ul>
+            </li>
             <li><b>Show to students: </b>Ask students to read and view <a href="https://www.cnn.com/2013/07/31/tech/web/snowden-leak-xkeyscore/index.html">the article and video on a NSA program</a>. The article and video highlight the tracking of online activity. </li>
             <li><b>Follow-up Discussion: </b>Ask for student response to their reading and viewing. </li>
         </ul>
-        <p><b>Experiences and Explorations </b></p>
+        <ul style="list-style-type: none;">
+            <li><b>Experiences and Explorations </b></li>
+        </ul>
         <ul>
             <li><b>Chapter 4, Part 2: pages 138- 160 </b></li>
             <li><b>Pre-reading Activity (10 minutes): </b>Do a K-W-L chart with the students. (K-W-L stands for Knows, Wants to Know, and has Learned.) You may want to do this as a Google doc and share this with the students. This can be completed as a whole class or as partners. Ask students to share what they learned about searches. Generate several questions about the topic and what they are wondering about. </li>
             <li><b>In-Class Reading (15 minutes): </b>Alone or with partners, have students read pp. 138-147. </li>
             <li><b>Discussion (10 minutes): </b>Discuss reading and revisit the K-W-L chart and see if any questions were answered. Have students share a few items they learned and document on the chart. Ask for a few new questions about searches and add them to the chart. </li>
             <li><b>Further Reading (20 minutes): </b>Alone or with partners, have students read pp. 148-160. </li>
-            <li><b>Pre-Reading Activity: Making Predictions: </b>Have students make a reading prediction about the section: </li>
-            <ul>
-                <li>What do you think you will learn: “Search Results Can Be Manipulated” </li>
-                <li>Discuss possibilities about the text.</li>
-                <li>Have students complete the next section of reading to the end of the chapter (pp. 148-160). </li>
-                <li>Revisit the K-W-L chart and use this as a discussion guide with the students. Answer any questions the students generated and make note of a few new ideas learned. </li>
-            </ul>
-            <li><b>Discussion: Captcha (15 minutes): </b>Discuss the impact of collaboration on the Internet using captchas as an example. </li>
-            <ul>
-                <li>To discuss captchas, you can use this <a href="https://www.nsf.gov/cise/csbytes/newsletter/vol1/pdf/vol1i1.pdf">CS Bits and Bytes article</a>. This article discusses reCAPTCHA and Duolingo, which are examples of services that use the contributions of many people to benefit both individuals and society. </li>
+            <li><b>Pre-Reading Activity: Making Predictions: </b>Have students make a reading prediction about the section:
                 <ul>
-                    <li>Optional: The CS Bits and Bytes section has an engaging student activity that you may want to complete in class that demonstrates “Captcha”.</li>
+                    <li>What do you think you will learn: “Search Results Can Be Manipulated” </li>
+                    <li>Discuss possibilities about the text.</li>
+                    <li>Have students complete the next section of reading to the end of the chapter (pp. 148-160). </li>
+                    <li>Revisit the K-W-L chart and use this as a discussion guide with the students. Answer any questions the students generated and make note of a few new ideas learned. </li>
                 </ul>
-            </ul>
-            <li><b>Rethink, Reflect, and/or Revise </b></li>
-            <ul>
-                <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the questions in their portfolio entry. </li>
-                <li><b>Discussion Ideas:</b>Have students share an important concept about "searches". What did they learn about different search engines? How are they the same or different? How do they believe Google has most impacted society? </li>
-            </ul>
-        </ul>
-        <p><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></p>
+            </li>
+            <li><b>Discussion: Captcha (15 minutes): </b>Discuss the impact of collaboration on the Internet using captchas as an example.
+                <ul>
+                    <li>To discuss captchas, you can use this <a href="https://www.nsf.gov/cise/csbytes/newsletter/vol1/pdf/vol1i1.pdf">CS Bits and Bytes article</a>. This article discusses reCAPTCHA and Duolingo, which are examples of services that use the contributions of many people to benefit both individuals and society.
+                        <ul>
+                            <li>Optional: The CS Bits and Bytes section has an engaging student activity that you may want to complete in class that demonstrates “Captcha”.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li><b>Rethink, Reflect, and/or Revise </b>
+                <ul>
+                    <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the questions in their portfolio entry. </li>
+                    <li><b>Discussion Ideas:</b>Have students share an important concept about "searches". What did they learn about different search engines? How are they the same or different? How do they believe Google has most impacted society? </li>
+                </ul>
+            </li>
+        </ul>        <p><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></p>
         <ul>
             <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
             <li><b>Experiences and Exploration (15-60 minutes): </b>Watch Episode 1 of The Crowd and the Cloud. If you do not have time to watch the entire hour-long episode, then focus on the OpenStreetMap [16:55-28:30] and EyesOnALZ [28:30-41:57] segments. </li>

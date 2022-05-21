@@ -475,7 +475,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
         </ul>
         <p><b><u> Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </u></b></p>
         <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflections to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
-<ul>
+        <ul>
  <li><b>Interactive Exercise:</b>
   <ul>
    <li><a href="https://1drv.ms/w/s!Ai4rrtIykb3V3mFo299ip11eY2bU?e=SDRseJ">Pogil 1:  Data Collection Devices and Data Types Reference</a></li>

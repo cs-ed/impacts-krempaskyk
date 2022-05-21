@@ -327,8 +327,6 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
-</li>
-</ul>
 <p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p>
 <ul>
  <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
@@ -362,20 +360,19 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
      <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
     </ul>
    </li>
-   <li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
+  </ul>
+ <li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
+  <ul>
+   <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
+   <li><b>Wrap up:</b>
     <ul>
-     <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
-     <li><b>Wrap up:</b>
+     <li>Ask students to share one idea from their portfolio/chapter questions. </li>
+     <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. 
       <ul>
-       <li>Ask students to share one idea from their portfolio/chapter questions. </li>
-       <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. 
-        <ul>
-         <li>Copyright </li>
-         <li>Peer-to-peer architecture/network </li>
-         <li>Digital Millennium Copyright Act (DMCA) </li>
-         <li>Open access and creative commons </li>
-        </ul>
-       </li>
+       <li>Copyright </li>
+       <li>Peer-to-peer architecture/network </li>
+       <li>Digital Millennium Copyright Act (DMCA) </li>
+       <li>Open access and creative commons </li>
       </ul>
      </li>
     </ul>

@@ -4,15 +4,18 @@
 
 **Description:** The Mobile Computer Science Principles course provides an introduction to the basic principles of computer science (CS) from the perspective of mobile computing, including programming in MIT App Inventor, a graphical programming language for Android and iOS mobile devices. The lessons and materials used by students incorporate algorithms and programming while also integrating all other AP CSP big ideas: creative development, data, algorithms and programming, computing systems and networks, and impact of computing. The curriculum engages students and supports the development of problem-solving skills, honing in on the computational thinking practices as indicated in the AP CSP curriculum framework. Students learn to create socially useful computational artifacts using MIT App Inventor as well as connect computing and learning about algorithms and data as they develop and analyze their programs. The curriculum also emphasizes communication and collaboration in a project-based approach. This course involves a strong writing component. Students will maintain a portfolio of their work, which will include several projects in the areas of programming and the impact of computing technology. 
 
-**Grade:** High School (9-12) 
+At Santa Teresa High School, I teach AP Computer Science Principals (AP-CSP) using the <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">Mobile Computer Science Principles</a> (Mobile CSP) framework. Some of the questions asked of students are altered and lessons are supplemented with other material due to the popularity of the program, as well as many published digital portfolios available on the internet. As sections of this plan are introduced, I will include the common practices in my classroom, as well as links to supplemental materials used.
+
+**Grade:** High School (10-12) 
 
 **Societal Impacts to be incorporated into the course:** 
 
-At Santa Teresa High School, I teach AP Computer Science Principals using the <a href="https://runestone.academy/ns/books/published/teach-mobilecsp/index.html">Mobile Computer Science Principles</a> framework. Some of the questions asked of students are altered and lessons are supplemented with other material. Throughout the year, impacts of technology on society as well as ethics are discussed, using the book, Blown to Bits, as the main resource. 
+Throughout the year, impacts of technology on society as well as ethics are discussed, using the book, Blown to Bits, as the main resource. There are six lessons that specifically focus on large impacts of technology on society. In addition, throughout the lessons, there are other smaller impacts discussed, such as how data mining can be beneficial and what security concerns there might be. These smaller lessons are not included in this plan because the main outcomes in those lessons are not necessarily focused on the impact itself, but a larger result, such as manipulating data to find answers.
 
 ## Plan
 
 ### Learning Objectives
+Lessons are presented using PowerPoint slides, with much of the material provided by Mobile CSP, including videos and other links. The slides begin with what will be discussed during the lesson or what the students will be able to do/know at the end of the lesson. Each of the lesson’s learning objectives here includes a link to what the student will be taught for you to view.
 
 **Lesson 1.5 Impacts of CS Blown to Bits BB** 
 

@@ -338,49 +338,49 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 <p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
 <p style="padding-left: 20px;"><b>Day 1</b></p>
 <ul>
- <li><b>Hook/Motivation (10 minutes): </b>Ask students to complete the Anticipation Guide. Once they are finished responding to the questions, ask them how they responded. Then ask students where they get images and music. Is it copyrighted? What is meant by "copyright"? What if you use copyrighted material for a project you are creating like an app? </li>
- <li><b>Experiences and Explorations (45 minutes): </b>
-  <ul>
-   <li><b>Getting ready to read </b>(Think-Pair-Share):
-    <ul>
-     <li><b>Think (5 minutes):</b>Have students first work alone to consider the following concepts on the Concept Bank Template. Ask them to briefly try to describe a few ideas about each concept: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA), Open access and creative commons </li>
-     <li><b>Pair (5 minutes):</b>With a partner, have students share their understanding or what they know about each idea. </li>
-     <li><b>Share (5 minutes):</b>Discuss each concept as a whole class. </li>
-    </ul>
-   </li>
-   <li><b>In-Class Reading (30 minutes):  </b>
-    <ul>
-     <li><b>Read-Aloud (5 minutes): </b>Read the opening story from Chapter 6 to the class (pp. 195-196) about Tanya Andersen. </li>
-     <li><b>Discussion (10 minutes): </b>
-     <li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
-     <li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
-     <li>How might this be possible? </li>
-    </ul>
-   </li>
-   <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
-  </ul>
- </li>
- <li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
-  <ul>
-   <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
-   <li><b>Wrap up:</b>
-    <ul>
-     <li>Ask students to share one idea from their portfolio/chapter questions. </li>
-     <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. 
-      <ul>
-       <li>Copyright </li>
-       <li>Peer-to-peer architecture/network </li>
-       <li>Digital Millennium Copyright Act (DMCA) </li>
-       <li>Open access and creative commons </li>
-      </ul>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
-</ul>
-</li>
-</ul>
+	<li><b>Hook/Motivation (10 minutes): </b>Ask students to complete the Anticipation Guide. Once they are finished responding to the questions, ask them how they responded. Then ask students where they get images and music. Is it copyrighted? What is meant by "copyright"? What if you use copyrighted material for a project you are creating like an app? </li>
+	<li><b>Experiences and Explorations (45 minutes): </b>
+		<ul>
+			<li><b>Getting ready to read </b>(Think-Pair-Share):
+				<ul>
+					<li><b>Think (5 minutes):</b>Have students first work alone to consider the following concepts on the Concept Bank Template. Ask them to briefly try to describe a few ideas about each concept: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA), Open access and creative commons </li>
+					<li><b>Pair (5 minutes):</b>With a partner, have students share their understanding or what they know about each idea. </li>
+					<li><b>Share (5 minutes):</b>Discuss each concept as a whole class. </li>
+				</ul>
+			</li>
+			<li><b>In-Class Reading (30 minutes):  </b>
+				<ul>
+					<li><b>Read-Aloud (5 minutes): </b>Read the opening story from Chapter 6 to the class (pp. 195-196) about Tanya Andersen. </li>
+					<li><b>Discussion (10 minutes): </b>
+						<ul>
+							<li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
+							<li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
+							<li>How might this be possible? </li>
+						</ul>
+					</li>
+					<li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
+				</ul>
+			</li>
+		</ul>
+			<li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
+   <ul>
+    <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
+    <li><b>Wrap up:</b>
+			  <ul>
+				  <li>Ask students to share one idea from their portfolio/chapter questions. </li>
+				  <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. 
+			  		<ul>
+			  			<li>Copyright </li>
+        <li>Peer-to-peer architecture/network </li>
+        <li>Digital Millennium Copyright Act (DMCA) </li>
+        <li>Open access and creative commons </li>
+       </ul>
+      </li>
+     </ul>
+    </li>
+   </ul>
+  </li>
+ </ul>
 <p style="padding-left: 20px;"><b>Day 2</b></p>
 <ul>
  <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:

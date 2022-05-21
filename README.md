@@ -120,25 +120,25 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
              </ul>
       </li>
 </ul>
-<p style="padding-left: 25px"><b>Day 2 (45 minutes) </b></p>
-     <ul>
-         <li><b>Hook/Motivation (15 Minutes): </b>
-             <ul>
-                 <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
-             </ul>
-         </li>
-         <li><b>Experiences and Explorations (25 minutes): </b>
-                <ul>
-                    <li>Ask students if there are both positive and negative impacts from the technology they used? Ask them if they believe that the technology itself is good or bad? <em>They will likely identify positive impacts and may have difficulty with negative impacts. The discussion after the reading should help them to better identify negative impacts of using technology.</em></li>
-                    <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) </li>
-                    <li>Students should get into groups of 4, then use the Debate Team Carousel handout with one of the following questions/topics. Each group can have the same or a different topic. </li>
-                    <ul>
-                        <li><a href="https://www.diigo.com/user/mobilecsp">Select topics based on the list of current events articles at diigo.com/user/mobilecsp. </a></li>
-                        <li>Examples of Questions: Should voting be electronic? Should apps be used to help track and diagnose mental health? Should digital assistants (such as Alexa) talk like humans? 
-                        </li>
-                    </ul>
-                </ul>
-            </li>
+<p style="padding-left: 25px"><b>Day 2 (45 minutes)</b></p>
+<ul>
+     <li><b>Hook/Motivation (15 Minutes): </b>
+          <ul>
+               <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
+          </ul>
+     </li>
+     <li><b>Experiences and Explorations (25 minutes): </b>
+          <ul>
+               <li>Ask students if there are both positive and negative impacts from the technology they used? Ask them if they believe that the technology itself is good or bad? <em>They will likely identify positive impacts and may have difficulty with negative impacts. The discussion after the reading should help them to better identify negative impacts of using technology.</em></li>
+               <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) </li>
+           <li>Students should get into groups of 4, then use the Debate Team Carousel handout with one of the following questions/topics. Each group can have the same or a different topic.
+            <ul>
+             <li><a href="https://www.diigo.com/user/mobilecsp">Select topics based on the list of current events articles at diigo.com/user/mobilecsp. </a></li
+             <li>Examples of Questions: Should voting be electronic? Should apps be used to help track and diagnose mental health? Should digital assistants (such as Alexa) talk like humans? </li>
+            </ul>
+           </li>
+      </ul>
+ </li>
             <li><b>Rethink, Reflect, and Revise (10 minutes): </b>
                 <ul>
                     <li>Pick a current real-world example that students can explore. (Examples might be Google Glass, Apple Watch, FitBits) Students should describe what the product/initiative is and also discuss its positive and negative implications on life in the Digital Age. Students will need to find a similar example for their portfolio reflection. </li>

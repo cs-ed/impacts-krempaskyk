@@ -121,13 +121,13 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
       </li>
 </ul>
 <p style="padding-left: 25px"><b>Day 2 (45 minutes) </b></p>
-        <ul>
-            <li><b>Hook/Motivation (15 Minutes): </b>
-                <ul>
-                    <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
-                </ul>
-            </li>
-            <li><b>Experiences and Explorations (25 minutes): </b>
+     <ul>
+         <li><b>Hook/Motivation (15 Minutes): </b>
+             <ul>
+                 <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
+             </ul>
+         </li>
+         <li><b>Experiences and Explorations (25 minutes): </b>
                 <ul>
                     <li>Ask students if there are both positive and negative impacts from the technology they used? Ask them if they believe that the technology itself is good or bad? <em>They will likely identify positive impacts and may have difficulty with negative impacts. The discussion after the reading should help them to better identify negative impacts of using technology.</em></li>
                     <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) </li>

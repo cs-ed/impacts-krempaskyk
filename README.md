@@ -102,6 +102,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 ### Learning Activities
 
+<p>The following is a list of lesson plans provided by Mobile CSP. I added a link to the PowerPoint lessons I use for each of these lessons, as well. POGILs and reflection material will be linked in the assessment section.</p>
 <p><b><u><a href="https://1drv.ms/p/s!Ai4rrtIykb3V3AUZz9WPX2_7QbnH?e=dAgDUI">Lesson 2.11 Impacts of CS The Digital Explosion</a></u></b></p>
 <p style="padding-left: 20px;"><b>Day 1</b></p>
 <ul>            
@@ -414,7 +415,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
 </ul>
 
-#### Assessment
+### Assessment
 
 <p>The lessons end with multiple choice questions, some from the AP College Board website, in the PowerPoint slides. Students will typically answer the questions vocally, as a group, and I will call on one student to explain why that answer is correct and the others are not. While Mobile CSP references a “portfolio,” I find it a lot easier to have students submit assignments directly to me via Google Classroom. Assignments are usually a group assignment (POGIL) and an individual reflection. The groups have been preassigned and change throughout the year so students have the opportunity to work with everyone in the class. Only one of the group member’s work is graded with all students in the group receiving that grade. The members do not know who will be chosen for grading. I keep a running tally of which member of each group has been used to keep it fair.</p>
 

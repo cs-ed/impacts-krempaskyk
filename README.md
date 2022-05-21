@@ -328,74 +328,86 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
  </ul>
- <p><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></p>
+         <p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p>
         <ul>
             <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
             <li><b>Experiences and Exploration (15-60 minutes): </b>Watch Episode 1 of The Crowd and the Cloud. If you do not have time to watch the entire hour-long episode, then focus on the OpenStreetMap [16:55-28:30] and EyesOnALZ [28:30-41:57] segments. </li>
             <li><b>Experiences and Exploration (30 minutes): </b>Students can work individually or in pairs to select an app from the <a href="http://crowdandcloud.org/join-a-project">Join a Project</a> page and answer the questions on purpose, data, and effects. Students should discuss the answers to their questions with another student or pair of students. </li>
             <li><b>Reflect and Revise (5 minutes): </b>Ask students to record their answers in their portfolios.</li>
         </ul>
-        <p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u> <br>Day 1</b></p>
+        <p><b><u>Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
+        <p style="padding-left: 20px;"><b>Day 1</b></p>
         <ul>
             <li><b>Hook/Motivation (10 minutes): </b>Ask students to complete the Anticipation Guide. Once they are finished responding to the questions, ask them how they responded. Then ask students where they get images and music. Is it copyrighted? What is meant by "copyright"? What if you use copyrighted material for a project you are creating like an app? </li>
-            <li><b>Experiences and Explorations (45 minutes): </b></li>
-            <ul>
-                <li><b>Getting ready to read </b>(Think-Pair-Share): </li>
+            <li><b>Experiences and Explorations (45 minutes): </b>
                 <ul>
-                    <li><b>Think (5 minutes):</b>Have students first work alone to consider the following concepts on the Concept Bank Template. Ask them to briefly try to describe a few ideas about each concept: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA), Open access and creative commons </li>
-                    <li><b>Pair (5 minutes):</b>With a partner, have students share their understanding or what they know about each idea. </li>
-                    <li><b>Share (5 minutes):</b>Discuss each concept as a whole class. </li>
-                </ul>
-                <li><b>In-Class Reading (30 minutes):  </b></li>
-                <ul>
-                    <li><b>Read-Aloud (5 minutes): </b>Read the opening story from Chapter 6 to the class (pp. 195-196) about Tanya Andersen. </li>
-                    <li><b>Discussion (10 minutes): </b></li>
-                    <ul>
-                        <li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
-                        <li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
-                        <li>How might this be possible? </li>
-                    </ul>
-                    <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
-                </ul>
-                <li><b>Rethink, Reflect and/or Revise (15 minutes):</b></li>
-                <ul>
-                    <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
-                    <li><b>Wrap up:</b></li>
-                    <ul>
-                        <li>Ask students to share one idea from their portfolio/chapter questions. </li>
-                        <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. </li>
+                    <li><b>Getting ready to read </b>(Think-Pair-Share):
                         <ul>
-                            <li>Copyright </li>
-                            <li>Peer-to-peer architecture/network </li>
-                            <li>Digital Millennium Copyright Act (DMCA) </li>
-                            <li>Open access and creative commons </li>
+                            <li><b>Think (5 minutes):</b>Have students first work alone to consider the following concepts on the Concept Bank Template. Ask them to briefly try to describe a few ideas about each concept: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA), Open access and creative commons </li>
+                            <li><b>Pair (5 minutes):</b>With a partner, have students share their understanding or what they know about each idea. </li>
+                            <li><b>Share (5 minutes):</b>Discuss each concept as a whole class. </li>
                         </ul>
-                    </ul>
+                    </li>
+                    <li><b>In-Class Reading (30 minutes):  </b>
+                        <ul>
+                            <li><b>Read-Aloud (5 minutes): </b>Read the opening story from Chapter 6 to the class (pp. 195-196) about Tanya Andersen. </li>
+                            <li><b>Discussion (10 minutes): </b>
+                                <ul>
+                                    <li>"The RIAA has filed more than 26,000 lawsuits against individuals for illegal downloading since 2003." </li>
+                                    <li>"It’s also an error-prone form of justice. Matching names to IP addresses is unreliable—several computers on the same wireless network might share the same IP address." </li>
+                                    <li>How might this be possible? </li>
+                                </ul>
+                            </li>
+                            <li><b>Reading (20 minutes): </b>Have students read <a href="http://newbitsbook.com/index.php?title=Chapter_6:_Copyright_Rebalanced">Blown To Bits Chapter 6</a> pp. 195-210. As they are reading, ask students to write down two or three new ideas or questions about what they read. </li>
+                        </ul>
+                    </li>
+                    <li><b>Rethink, Reflect and/or Revise (15 minutes):</b>
+                        <ul>
+                            <li><b>Portfolio and Chapter 6 questions:</b>Have students choose two questions from the list and complete them.  </li>
+                            <li><b>Wrap up:</b>
+                                <ul>
+                                    <li>Ask students to share one idea from their portfolio/chapter questions. </li>
+                                    <li>Display the important concepts from the text and ask students to share anything new they learning about these concepts from reading. 
+                                        <ul>
+                                            <li>Copyright </li>
+                                            <li>Peer-to-peer architecture/network </li>
+                                            <li>Digital Millennium Copyright Act (DMCA) </li>
+                                            <li>Open access and creative commons </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
                 </ul>
-            </ul>
+            </li>
         </ul>
-        <p><b>Day 2</b></p>
+        <p style="padding-left: 20px;"><b>Day 2</b></p>
         <ul>
-            <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students: </li>
-            <ul>
-                <li>"How does Fortress prevent people who’ve bought its material from copying and redistributing it?" </li>
-                <li>What if you were the owner of the company? What might you do to protect your digital material? </li>
-            </ul>
-            <li><b>Experiences and Exploration (40 minutes):  </b></li>
-            <ul>
-                <li><b>Review the concepts from this reading (10 minutes):</b> Have students use the knowledge they have gained in this chapter to complete the Concept Bank worksheet regarding the following terms: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA),Open access and creative commons. Concept Bank Directions: </li>
+            <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:
                 <ul>
-                    <li>Students should first define the concept in their own words. </li>
-                    <li>Next students should sketch a picture in the box provided of what the term looks like to them. </li>
-                    <li>Finally, students should make connections to the term--personally or to the world around them. How does this term to connect to the world around them? </li>
+                    <li>"How does Fortress prevent people who’ve bought its material from copying and redistributing it?" </li>
+                    <li>What if you were the owner of the company? What might you do to protect your digital material? </li>
                 </ul>
-                <li><b>In-Class Reading (30 minutes): </b>Have students read (with a partner or as individuals) the rest of Chapter 6 (pp. 212-228) and ask them to expand their responses in each category on the Concept Bank worksheet. </li>
-            </ul>
-            <li><b>Rethink, Reflect and/or Revise (15 minutes): </b></li>
-            <ul>
-                <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the Chapter 6 questions in their portfolio entry.  </li>
-                <li><b>Wrap up (5 minutes): </b>Have students share an idea about copyright with the class. Discuss ideas they have about finding content such as images, sounds, and music for their apps that are free to use. </li>
-            </ul>
+            </li>
+            <li><b>Experiences and Exploration (40 minutes):  </b>
+                <ul>
+                    <li><b>Review the concepts from this reading (10 minutes):</b> Have students use the knowledge they have gained in this chapter to complete the Concept Bank worksheet regarding the following terms: Copyright, Peer-to-peer architecture/network, Digital Millennium Copyright Act (DMCA),Open access and creative commons. Concept Bank Directions: 
+                        <ul>
+                            <li>Students should first define the concept in their own words. </li>
+                            <li>Next students should sketch a picture in the box provided of what the term looks like to them. </li>
+                            <li>Finally, students should make connections to the term--personally or to the world around them. How does this term to connect to the world around them? </li>
+                        </ul>
+                    </li>
+                    <li><b>In-Class Reading (30 minutes): </b>Have students read (with a partner or as individuals) the rest of Chapter 6 (pp. 212-228) and ask them to expand their responses in each category on the Concept Bank worksheet. </li>
+                </ul>
+            </li>
+            <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>
+                <ul>
+                    <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the Chapter 6 questions in their portfolio entry.  </li>
+                    <li><b>Wrap up (5 minutes): </b>Have students share an idea about copyright with the class. Discuss ideas they have about finding content such as images, sounds, and music for their apps that are free to use. </li>
+                </ul>
+            </li>
         </ul>
         
 ### Assessment

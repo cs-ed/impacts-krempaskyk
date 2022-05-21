@@ -485,7 +485,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
  </li>
 </ul>
          <ul style="list-style-type: none;">
-            <li><b>Reflection in Portfolio:</b></li>
+            <li><b><a href="https://1drv.ms/w/s!Ai4rrtIykb3V8BkhQmarx03-n4Ok?e=rDbRfY">Reflection</a> in Portfolio:</b></li>
             <li><b>Explore Curricular Activities:</b></li>
             <ol>
                 <li>[Activity Part 1] Earlier in the course, you built the Map Tour app.</li>
@@ -506,9 +506,9 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             </ol>
         </ul>
         <p><b><u> Lesson 5.10 Impacts of CS Web Searches</u></b></p>
-        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflections to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
         <ul style="list-style-type: none">
-            <li><b>Reflection in Portfolio:</b></li>
+            <li><b><a href="https://1drv.ms/w/s!Ai4rrtIykb3V8AMAt-jSCdD7jzq7?e=74f1wG">Reflection</a> in Portfolio:</b></li>
             <li><b>Explore Curricular Activities:</b></li>
             <ol start="1">
                 <li>How do web search tools make it more efficient to find information?</li>
@@ -533,14 +533,15 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             </ul>
         </ul>
         <p><b><u> Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</u></b></p>
-        <p style="padding-left: 25px; line-height: 0x;"><b>Reflection in Portfolio:</b></p>
+        <p style="padding-left: 25px; line-height: 0x;"><b><a href="https://1drv.ms/w/s!Ai4rrtIykb3VjNp7vMToiD7Up81Ssg?e=topqK0">Reflection</a>:</b></p>
         <ol>
             <li><b>(Activity)</b> Which citizen science app did you explore? What is the purpose of the app?  Describe the functionality of the app.</li>
             <li><b>(Activity)</b> What data does the app use and how does the app use the data collected?</li>
             <li><b>(Activity)</b> What are the intended positive impacts of your citizen science app? What might be some unintended negative impacts? You might consider impacts on society, the economy, culture, etc.</li>
         </ol>
         <p><b><u> Lesson 7.8 Impacts of CS Who Owns the Bits</u></b></p>
-        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflection portfolio entries to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <p style="padding-left: 25px; line-height: 0x;">You can examine students’ work on their reflections to assess their progress on the following learning objectives. If students are able to do what is listed there, they are ready to move on to the next lesson.</p>
+        <p style="padding-left: 25px;"><b><a href="https://1drv.ms/w/s!Ai4rrtIykb3VjN1IFc5PEJoUtGTI9g?e=hn3L6m">Reflection</a>:</b></p>
         <ol>
             <li>In your own words, define the concept of copyright. Why should all Internet users be aware of copyrighted material?</li>
             <li>What is the difference between digital and printed documents that makes it easier to violate copyright law with digital ones?</li>

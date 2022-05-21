@@ -184,42 +184,42 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>Rethink, Reflect and/or Revise (15 minutes): </b>Have the students complete their portfolio reflections. Share portfolio responses, especially the free response questions. If time, share the BBC article about steganography being used with color printers and how it has impacted detective work. </li>
         </ul>
 <p><u><b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b></u></p>
-        <ul>
-            <li><b>Hook/Motivation (5 minutes): </b>Introduce the lesson and the idea of digital data privacy and privacy concerns using the introduction part of the lesson. Explain to students that Chapter 2 of Blown to Bits makes the point that focuses on the issue of how the digital explosion affects our privacy. This is an especially important issue for today's mobile computing generation because our smart phones and tablets cannot only track our electronic correspondence, they can track our whereabouts, opening whole new areas of potential privacy infringements. Define PII and cookies. </li>
-            <li><b>Explore Curricular Activity (95 minutes): </b>
-                <ul>
-                    <li><b>Activity - Part 1 Data Types and Data Collection (10 minutes): </b>As a class or working collaboratively in small groups, complete the Data Types and Data Collection reference sheet. Once filled in, this sheet can be used as a reference for the remainder of the lesson. </li>
-                    <li><b>Activity - Part 2 Classifying Data (20 minutes): </b>Have the students complete the Classifying Data worksheet. When finished, ask them to compare answers with a classmate. It's okay if they do not finish the entire worksheet. Next, watch this <a href="https://www.nytimes.com/video/magazine/100000001367956/timescast--retailers-predictions.html?src=vidm">NY Times Video: Retailer’s Predictions Video (2:38)</a>. After watching the video, ask students to identify what data is collected in the video and how is it being used. Consider if this is a good or bad use of the data. Transition to discussing the IPOS chart and defining input, output, processing, and storage.
-                        <ul>
-                            <li><em>Class Exercise: </em>As a class draw, label, and explain the scenario of having to type a paper for a class using an IPOS structure chart. Note: The keyboard is the input device, the printer is the output device </li>
-                        </ul>
-                    </li>
-                    <li><b>Activity - Part 3 Collecting Data (20 minutes): </b>Have the students complete the Collecting Data Worksheet. For this part of the activity, they will visit the website <a href="http://aboutmyinfo.org/compute.php">aboutmyinfo.org</a> and enter their date of birth, gender, and zip code. Have the students discuss why they may be easily identifiable by this information. (HINT: Estimate the number of people in their zip code and the number of unique combinations of birth date and gender. See the <a href="http://aboutmyinfo.org/about.html">About page</a> of the website for more information.)  </li>
-                    <li><b>Activity - Part 4 Explore a Computing Innovation (45 minutes): </b>After completing the above activities, give students time to work independently to explore a computing innovation of their choice. Students should submit answers to the following questions:
-                        <ul>
-                            <li>Identify the data used by the computing innovation. </li>
-                            <li>Write a paragraph that explains how the data is consumed, transformed, or produced by this computing innovation. </li>
-                            <li>Write a paragraph that explains any data privacy, security, or storage concerns related to the computing innovation. </li>
-                        </ul>
-                    </li>
-            </ul>
-            </li>
-            <li><b>Reading Activity (In-Class, 25 minutes or Homework): </b>Students should read Chapter 2 to learn about some of the ways our electronic devices impinge on our privacy. Students should complete a Double-Entry Journal as they read Chapter 2. (A template is provided in the chapter’s materials list.) The students’ journal should summarize and comment on at least four quotes or summarized ideas that the authors bring forward in this chapter.
-                <ul>
-                    <li>Ask students to share an item or two from the chapter that they included in their Double-Entry Journal. They can share an idea from the text which they thought was important and then can tell what they thought about the idea. </li>
-                    <li>Working in teams, ask students to discuss the questions for Chapter 2 and have the students record their answers in their Google portfolio. </li>
-                    <li>Ask each team to share its answers for one of the portfolio questions. Other groups can add their ideas once groups have shared. All students can make additions and revisions to their responses in the Google portfolios. </li>
-                    <li>Ask students the following questions:
-                        <ul>
-                            <li>Are you concerned about digital privacy? </li>
-                            <li>Are you willing to give up your privacy for convenience? </li>
-                            <li>What are the pros and cons of giving up privacy? </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
-        </ul>
+<ul>
+ <li><b>Hook/Motivation (5 minutes): </b>Introduce the lesson and the idea of digital data privacy and privacy concerns using the introduction part of the lesson. Explain to students that Chapter 2 of Blown to Bits makes the point that focuses on the issue of how the digital explosion affects our privacy. This is an especially important issue for today's mobile computing generation because our smart phones and tablets cannot only track our electronic correspondence, they can track our whereabouts, opening whole new areas of potential privacy infringements. Define PII and cookies. </li>
+ <li><b>Explore Curricular Activity (95 minutes): </b>
+  <ul>
+   <li><b>Activity - Part 1 Data Types and Data Collection (10 minutes): </b>As a class or working collaboratively in small groups, complete the Data Types and Data Collection reference sheet. Once filled in, this sheet can be used as a reference for the remainder of the lesson. </li>
+   <li><b>Activity - Part 2 Classifying Data (20 minutes): </b>Have the students complete the Classifying Data worksheet. When finished, ask them to compare answers with a classmate. It's okay if they do not finish the entire worksheet. Next, watch this <a href="https://www.nytimes.com/video/magazine/100000001367956/timescast--retailers-predictions.html?src=vidm">NY Times Video: Retailer’s Predictions Video (2:38)</a>. After watching the video, ask students to identify what data is collected in the video and how is it being used. Consider if this is a good or bad use of the data. Transition to discussing the IPOS chart and defining input, output, processing, and storage.
+    <ul>
+     <li><em>Class Exercise: </em>As a class draw, label, and explain the scenario of having to type a paper for a class using an IPOS structure chart. Note: The keyboard is the input device, the printer is the output device </li>
+    </ul>
+   </li>
+   <li><b>Activity - Part 3 Collecting Data (20 minutes): </b>Have the students complete the Collecting Data Worksheet. For this part of the activity, they will visit the website <a href="http://aboutmyinfo.org/compute.php">aboutmyinfo.org</a> and enter their date of birth, gender, and zip code. Have the students discuss why they may be easily identifiable by this information. (HINT: Estimate the number of people in their zip code and the number of unique combinations of birth date and gender. See the <a href="http://aboutmyinfo.org/about.html">About page</a> of the website for more information.)  </li>
+   <li><b>Activity - Part 4 Explore a Computing Innovation (45 minutes): </b>After completing the above activities, give students time to work independently to explore a computing innovation of their choice. Students should submit answers to the following questions:
+    <ul>
+     <li>Identify the data used by the computing innovation. </li>
+     <li>Write a paragraph that explains how the data is consumed, transformed, or produced by this computing innovation. </li>
+     <li>Write a paragraph that explains any data privacy, security, or storage concerns related to the computing innovation. </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li><b>Reading Activity (In-Class, 25 minutes or Homework): </b>Students should read Chapter 2 to learn about some of the ways our electronic devices impinge on our privacy. Students should complete a Double-Entry Journal as they read Chapter 2. (A template is provided in the chapter’s materials list.) The students’ journal should summarize and comment on at least four quotes or summarized ideas that the authors bring forward in this chapter.
+  <ul>
+   <li>Ask students to share an item or two from the chapter that they included in their Double-Entry Journal. They can share an idea from the text which they thought was important and then can tell what they thought about the idea. </li>
+   <li>Working in teams, ask students to discuss the questions for Chapter 2 and have the students record their answers in their Google portfolio. </li>
+   <li>Ask each team to share its answers for one of the portfolio questions. Other groups can add their ideas once groups have shared. All students can make additions and revisions to their responses in the Google portfolios. </li>
+   <li>Ask students the following questions:
+    <ul>
+     <li>Are you concerned about digital privacy? </li>
+     <li>Are you willing to give up your privacy for convenience? </li>
+     <li>What are the pros and cons of giving up privacy? </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
+</ul>
         <p><u><b>Lesson 5.10 Impacts of CS Web Searches</b></u><br><b>Part 1</b><br><b>Lesson/Starter/Hook (16 minutes)</b></p>
         <ul>
             <li><b>Reflecting in Writing (5 minutes) : Ask students to journal on the following questions: </b></li>

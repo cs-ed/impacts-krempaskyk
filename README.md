@@ -297,9 +297,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             <li><b>Show to students: </b>Ask students to read and view <a href="https://www.cnn.com/2013/07/31/tech/web/snowden-leak-xkeyscore/index.html">the article and video on a NSA program</a>. The article and video highlight the tracking of online activity. </li>
             <li><b>Follow-up Discussion: </b>Ask for student response to their reading and viewing. </li>
         </ul>
-        <ul style="list-style-type: none;">
-            <li><b>Experiences and Explorations </b></li>
-        </ul>
+        <p><b>Experiences and Explorations </b></p>
         <ul>
             <li><b>Chapter 4, Part 2: pages 138- 160 </b></li>
             <li><b>Pre-reading Activity (10 minutes): </b>Do a K-W-L chart with the students. (K-W-L stands for Knows, Wants to Know, and has Learned.) You may want to do this as a Google doc and share this with the students. This can be completed as a whole class or as partners. Ask students to share what they learned about searches. Generate several questions about the topic and what they are wondering about. </li>

@@ -157,21 +157,21 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 </ul>
 <ul>
  <li><b>During Reading Activity (In-Class, 20 minutes or Homework): </b>Have the students read pp. 75-80. As students are reading, ask them to create "Conversation Questions" (template provided in the materials section) by doing the following: 
-                    </li>
-            <ul>
-                <li>Highlight information that is important, surprising or thought provoking. Choose three or four pieces/ideas from the text. </li>
-                <li>Once you have highlighted an idea, jot down a question about that idea that would be interesting to talk about with your classmates. Make your questions open-ended, that is questions that cannot be answered with simple one-word responses. Your open-ended questions may start with some of the following: </li>
-                <ul>
-                    <li>What did you think… </li>
-                    <li>Why do you think… </li>
-                    <li>How did you feel about… </li>
-                    <li>How could… </li>
-                </ul>
-                <li>Now try to think about a time when something similar happened to you or share a time when you learned about something being shared on the Internet that was considered private. 
-                </li>
-            </ul>
-          </ul>
-        <ul>
+  <ul>
+   <li>Highlight information that is important, surprising or thought provoking. Choose three or four pieces/ideas from the text. </li>
+   <li>Once you have highlighted an idea, jot down a question about that idea that would be interesting to talk about with your classmates. Make your questions open-ended, that is questions that cannot be answered with simple one-word responses. Your open-ended questions may start with some of the following:
+    <ul>
+     <li>What did you think… </li>
+     <li>Why do you think… </li>
+     <li>How did you feel about… </li>
+     <li>How could… </li>
+    </ul>
+   </li>
+   <li>Now try to think about a time when something similar happened to you or share a time when you learned about something being shared on the Internet that was considered private. </li>
+  </ul>
+ </li>
+</ul>
+<ul>
             <li><b>Making Connections: Small Group Discussion (20 minutes): </b>Break class up into groups of 2-4 students. Have students pose one of the discussion questions they created. Groups should then discuss each question. Once students have each asked a question, have students share an example of something that happened to them or that they read about that was similar in nature to what is presented in the chapter. Ask them to consider what advice they might give to the military and/or journalists to protect secret/protected information when posting on the Internet? Take a couple of minutes to check in with students about what they read. </li>
             <li><b>During Reading Activity (In-Class, 25 minutes or Homework): </b>Have the students read pp. 80-94, "Representation, Reality, and Illusion.” As students are reading, they should complete a "Now That’s Surprising" reading response sheet. (A template is provided in the materials section.) Each student should respond to four ideas from the text by completing the following: </li>
             <ul>

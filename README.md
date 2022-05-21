@@ -147,15 +147,16 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
         </ul> 
 <p><b><u>Lesson 3.10 Impacts of CS Electronic Documents </u></b></p>
 <ul>
- <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>
- <li><b>Experiences and Explorations (10 minutes): </b></li>
- <ul>
-  <li><b>Think-Pair-Share:</b> Why do you think this chapter is called "Ghost in the Machine"? Think about this on your own. Discuss it with a partner. Then share your ideas with the whole class.</li>
-  <li><b>Read Aloud:</b> Read page 73 out loud to the class. Discuss the word "redacted." You may also need to discuss the setting of the chapter and provide background information about the Iraq war. Review the image on the top of page 74 to demonstrate "redact." What was the purpose in blocking out sections of the text? Read the rest of page 74 out loud.</li>
- </ul>
+     <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>
+     <li><b>Experiences and Explorations (10 minutes): </b>
+          <ul>
+               <li><b>Think-Pair-Share:</b> Why do you think this chapter is called "Ghost in the Machine"? Think about this on your own. Discuss it with a partner. Then share your ideas with the whole class.</li>
+               <li><b>Read Aloud:</b> Read page 73 out loud to the class. Discuss the word "redacted." You may also need to discuss the setting of the chapter and provide background information about the Iraq war. Review the image on the top of page 74 to demonstrate "redact." What was the purpose in blocking out sections of the text? Read the rest of page 74 out loud.</li>
+          </ul>
+ </li>
 </ul>
-        <ul>
-                    <li><b>During Reading Activity (In-Class, 20 minutes or Homework): </b>Have the students read pp. 75-80. As students are reading, ask them to create "Conversation Questions" (template provided in the materials section) by doing the following: 
+<ul>
+ <li><b>During Reading Activity (In-Class, 20 minutes or Homework): </b>Have the students read pp. 75-80. As students are reading, ask them to create "Conversation Questions" (template provided in the materials section) by doing the following: 
                     </li>
             <ul>
                 <li>Highlight information that is important, surprising or thought provoking. Choose three or four pieces/ideas from the text. </li>

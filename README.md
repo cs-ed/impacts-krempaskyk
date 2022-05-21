@@ -213,11 +213,9 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
             </ul>
             <li><b>Rethink, Reflect and/or Revise (10 minutes): </b>Summarize and restate arguments from the debate (optional, see below) and the entire chapter. Encourage students to think more about their own privacy and to be aware, such as with social media. Meanwhile, each student should save their portfolio entry for this lesson. This entry will serve as their formative assessment.</li>
         </ul> 
-                <p><b>Lesson 5.10 Impacts of CS Web Searches</b></p>
-        <ul style="list-style-type: none;">
-            <li><b>Part 1</b></li>
-            <li><b>Lesson/Starter/Hook (16 minutes)</b></li>
-        </ul>
+        <p><u><b>Lesson 5.10 Impacts of CS Web Searches</b></u></p>
+        <p style="padding-left: 20px;"><b>Part 1</b></p>
+        <p style="padding-left: 20px;"><b>Lesson/Starter/Hook (16 minutes)</b></p>
         <ul>
             <li><b>Reflecting in Writing (5 minutes) : Ask students to journal on the following questions: </b></li>
             <ul>

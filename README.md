@@ -272,10 +272,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
                 <li><b>Wrap up (5 minutes): </b>Ask the students: Based on what you read today, should search engine users delete or retain their search history? Why? (Free Response Question 4). </li>
             </ul>
         </ul>
-        <ul style="list-style-type: none;">
-            <li><b>Part 2</b></li>
-            <li><b>Hook/Motivation (10 Minutes) </b></li>
-        </ul>
+        <p><b>Part 2<br>Hook/Motivation (10 Minutes) </b></p>
         <ul>
             <li><b>Discussion:</b>Ask students: </li>
             <ul>

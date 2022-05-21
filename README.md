@@ -557,7 +557,111 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
         </ol>
         
 ### Outcome
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
-
- 
+<p>Part of the Mobile CSP teacher curriculum includes suggestions for inclusivity. The class population should be a representation of the school population, but it isn't. This is not the only subject that I teach, so I am able to discuss and show some of the amazing things that are happening in Computer Science to those other students. The one full time Computer Science teacher we have on campus is female with a Computer Science degree and experience in the industry. I will eventually be taking over for her when she retires (hopefully not too soon). I am also female. What I <b>am</b> seeing are female students who have fathers that are in some portion of the technology industry and the daughters want to follow in their footsteps! </p>
+        <p>It is not uncommon to have students that are not proficient in the English language. With this being an AP course, the students are presented with words or terms that thay may not understand. There are two particular things that I do to help these student. The first is that I remind them they are sitting in front of a computer, which is a very powerful tool they can use to help them. The second is I will use the word in context to help them figure out a meaning for themselves. </p>
+        <p>I encourage students to work with the people to their left and right. They work as a team and help explain information to each other in a way that they both understand. If something needs to be clarified, I help with context clues. I make sure to call on each student at some point in the class. It is difficult because there are those students who will always answer out loud, so there is a period of "training" that happens so students know when choral response is the way to answer, or wait for a student's name to be called so the individual student can answer.</p>
+        
+        <p><b>Lesson 2.11 Impacts of CS The Digital Explosion </b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective DAT-1.A:</b> Explain how data can be represented using bits.</p>
+        <ul>
+            <li>Computing devices represent data digitally, meaning that the lowest-level components of any value are bits.</li>
+        </ul>
+        
+        <p><b>Lesson 3.10 Impacts of CS Electronic Documents</b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective DAT-1-D:</b> Compare data compression algorithms to determine which is best in a particular context.</p>
+        <ul>
+            <li>Data compression can reduce the size (number of bits) of transmitted or stored data.</li>
+            <li>Lossless data compression algorithms can usually reduce the number of bits stored or transmitted while guaranteeing complete reconstruction of the original data.</li>
+            <li>Lossy data compression algorithms can significantly reduce the number of bits stored or transmitted but only allow reconstruction of an approximation of the original data.</li>
+            <li>In situations where quality or ability to reconstruct the original is maximally important, lossless compression algorithms are typically chosen.</li>
+            <li>In situations where minimizing data size or transmission time is maximally important, lossy compression algorithms are typically chosen.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective DAT-2.B:</b> Describe what information can be extracted from metadata.</p>
+        <ul>
+            <li>Metadata are data about data. For example, the piece of data may be an image, while the metadata may include the date of creation or the file size of the image.</li>
+            <li>Metadata are used for finding, organizing, and managing information.</li>
+            <li>Metadata can increase the effective use of data or data sets by providing additional information.</li>
+            <li>Metadata allow data to be structured and organized.</li>
+        </ul>
+        <p><b>Lesson 4.10 Impacts of CS Privacy Explore Curricular Activity </b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-1.B:</b> Explain how a computing innovation can have an impact beyond its intended purpose.</p>
+        <ul>
+            <li>Computing innovations can be used in ways that their creators had not originally intended: - The World Wide Web was originally intended only for rapid and easy exchange of information within the scientific community. - Targeted advertising is used to help businesses, but it can be misused at both individual and aggregate levels. -  Machine learning and data mining have enabled innovation in medicine, business, and science, but information discovered in this way has also been used to discriminate against groups of individuals.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-1.F:</b> : Explain how the use of computing can raise legal and ethical concerns.</p>
+        <ul>
+            <li>Computing innovations can raise legal and ethical concerns. Some examples of these include: - the development of software that allows access to digital media downloads and streaming - the development of algorithms that include bias - the existence of computing devices that collect and analyze data by continuously monitoring activities</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.A:</b> : Describe the risks to privacy from collecting and storing personal data on a computer system.</p>
+        <ul>
+            <li>Personally identifiable information (PII) is information about an individual that identifies, links, relates, or describes them. Examples of PII include: - social security number - age - race - phone number(s) - medical information - financial information - biometric data</li>
+            <li>Websites can record and maintain a history of individuals who have viewed their pages.</li>
+            <li>Devices, websites, and networks can collect information about a user’s location.</li>
+            <li>Technology enables the collection, use, and exploitation of information about, by, and for individuals, groups, and institutions.</li>
+            <li>Disparate personal data, such as geolocation, cookies, and browsing history, can be aggregated to create knowledge about an individual.</li>
+            <li>PII and other information placed online can be used to enhance a user’s online experiences.</li>
+            <li>PII stored online can be used to simplify making online purchases.</li>
+            <li>Commercial and governmental curation of information may be exploited if privacy and other protections are ignored.</li>
+            <li>PII can be used to stalk or steal the identity of a person or to aid in the planning of other criminal acts.</li>
+            <li>Once information is placed online, it is difficult to delete.</li>
+            <li>Programs can collect your location and record where you have been, how you got there, and how long you were at a given location.</li>
+            <li>Information posted to social media services can be used by others. Combining information posted on social media and other sources can be used to deduce private information about you.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.B:</b> : Explain how computing resources can be protected and can be misused.</p>
+        <ul>
+            <li>Users can control the permissions programs have for collecting user information. Users should review the permission settings of programs to protect their privacy.</li>
+        </ul>
+        <p><b>Lesson 5.10 Impacts of CS Web Searches </b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective DAT-2.D:</b> Extract information from data using a program.</p>
+        <ul>
+            <li>Search tools are useful for efficiently finding information.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.A:</b> Describe the risks to privacy from collecting and storing personal data on a computer system.</p>
+        <ul>
+            <li>Search engines can record and maintain a history of searches made by users.</li>
+            <li>Search engines can use search history to suggest websites or for targeted marketing.</li>
+        </ul>
+        <p><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-1.E:</b> Explain how people participate in problem-solving processes at scale.</p>
+        <ul>
+            <li>Widespread access to information and public data facilitates the identification of problems, development of solutions, and dissemination of results.</li>
+            <li>Science has been affected by using distributed and citizen science to solve scientific problems.</li>
+            <li>Citizen science is scientific research conducted in whole or part by distributed individuals, many of whom may not be scientists, who contribute relevant data to research using their own computing devices.</li>
+            <li>Crowdsourcing is the practice of obtaining input or information from a large number of people via the Internet.</li>
+            <li>Human capabilities can be enhanced by collaboration via computing.</li>
+            <li>Crowdsourcing offers new models for collaboration, such as connecting businesses or social causes with funding.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-1.F:</b> Explain how the use of computing can raise legal and ethical concerns.</p>
+        <ul>
+            <li>Computing innovations can raise legal and ethical concerns. Some examples of these include: - the development of software that allows access to digital media downloads and streaming - the development of algorithms that include bias - the existence of computing devices that collect and analyze data by continuously monitoring activities</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.A:</b> Describe the risks to privacy from collecting and storing personal data on a computer system.</p>
+        <ul>
+            <li>Technology enables the collection, use, and exploitation of information about, by, and for individuals, groups, and institutions.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.B:</b> Explain how computing resources can be protected and can be misused.</p>
+        <ul>
+            <li>Encryption is the process of encoding data to prevent unauthorized access. Decryption is the process of decoding the data. Two common encryption approaches are: - Symmetric key encryption involves one key for both encryption and decryption. - Public key encryption pairs a public key for encryption and a private key for decryption. The sender does not need the receiver’s private key to encrypt a message, but the receiver’s private key is required to decrypt the message. Exclusion Statement (EK IOC-2.B.5): Specific mathematical procedures for encryption and decryption are beyond the scope of this course and the AP Exam.</li>
+            <li>Computer virus and malware scanning software can help protect a computing system against infection.</li>
+            <li>A computer virus is a malicious program that can copy itself and gain access to a computer in an unauthorized way. Computer viruses often attach themselves to legitimate programs and start running independently on a computer.</li>
+            <li>Malware is software intended to damage a computing system or to take partial control over its operation.</li>
+        </ul>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-2.C:</b> Explain how unauthorized access to computing resources is gained.</p>
+        <ul>
+            <li>Phishing is a technique that attempts to trick a user into providing personal information. That personal information can then be used to access sensitive online resources, such as bank accounts and emails.</li>
+        </ul>
+        <p><b>Lesson 7.8 Impacts of CS Who Owns the Bits</b></p>
+        <p style="padding-left: 25px;"><b>Learning Objective IOC-1.F:</b> Explain how the use of computing can raise legal and ethical concerns.</p>
+        <ul>
+            <li>Material created on a computer is the intellectual property of the creator or an organization.</li>
+            <li>Ease of access and distribution of digitized information raises intellectual property concerns regarding ownership, value, and use.</li>
+            <li>Measures should be taken to safeguard intellectual property.</li>
+            <li>The use of material created by someone else without permission and presented as one’s own is plagiarism and may have legal consequences.</li>
+            <li>Some examples of legal ways to use materials created by someone else include: - Creative Commons—a public copyright license that enables the free distribution of an otherwise copyrighted work. This is used when the content creator wants to give others the right to share, use, and build upon the work they have created. - open source—programs that are made freely available and may be redistributed and modified - open access—online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions.</li>
+            <li>The use of material created by someone other than you should always be cited.</li>
+            <li>Creative commons, open source, and open access have enabled broad access to digital information.</li>
+            <li>As with any technology or medium, using computing to harm individuals or groups of people raises legal and ethical concerns.</li>
+            <li>Computing can play a role in social and political issues, which in turn often raise legal and ethical concerns.</li>
+            <li>Material created on a computer is the intellectual property of the creator or an organization.</li>
+        </ul>
 

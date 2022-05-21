@@ -319,15 +319,16 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
      <li>Optional: The CS Bits and Bytes section has an engaging student activity that you may want to complete in class that demonstrates “Captcha”.</li>
     </ul>
    </li>
-   <li><b>Rethink, Reflect, and/or Revise </b>
-    <ul>
-     <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the questions in their portfolio entry. </li>
-     <li><b>Discussion Ideas:</b>Have students share an important concept about "searches". What did they learn about different search engines? How are they the same or different? How do they believe Google has most impacted society? </li>
-    </ul>
-   </li>
+  </ul>
+ <li><b>Rethink, Reflect, and/or Revise </b>
+  <ul>
+   <li><b>Portfolio Reflection (10 minutes): </b>Each student should address the questions in their portfolio entry. </li>
+   <li><b>Discussion Ideas:</b>Have students share an important concept about "searches". What did they learn about different search engines? How are they the same or different? How do they believe Google has most impacted society? </li>
   </ul>
  </li>
- </ul>
+</ul>
+</li>
+</ul>
          <p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p>
         <ul>
             <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>

@@ -327,6 +327,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
+
 <p><u><b>Lesson 6.10 Impacts of CS Crowdsourcing with Citizen Science Apps</b></u></p>
 <ul>
  <li><b>Hook/Motivation: (5 minutes): </b>Ask students if anyone can explain how projects are funded through Kickstarter or other crowdfunding apps. Explain that crowdfunding is a type of crowdsourcing where many people contribute to fund a project. In computing, crowdsourcing relies on the many people collaborating to help solve a problem, contribute resources (such as computer processing time), or disseminate results. Citizen science apps are one example of using the power of crowdsourcing to solve science problems using mobile apps. </li>
@@ -380,6 +381,7 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
   </ul>
  </li>
 </ul>
+
 <p style="padding-left: 20px;"><b>Day 2</b></p>
 <ul>
  <li><b>Hook/Motivation (10 minutes):</b> The next section of the book is called "Digital Rights and Trusted Systems." Ask students to read pp. 210-211. When they are finished, ask students:

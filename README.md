@@ -98,70 +98,50 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 
 ### Learning Activities
-**Lesson 2.11 Impacts of CS The Digital Explosion**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Day 1 (45 minutes)**
-        <ul>
-            <li>
-                <b>Hook/Motivation (5 Minutes):</b>
+<p><b>Lesson 2.11 Impacts of CS The Digital Explosion</b></p>
+        <p style="padding-left: 25px;"><b>Day 1 (45 Minutes)</b></p>
+        <ul>            
+            <li><b>Hook/Motivation (5 Minutes):</b></li>
                 <ul>
                     <li>Ask the students to look around their classroom and identify things that process digital data, or bits. This might include: computers, calculators, light switches (with sensors), smart boards, projectors, phones/tablets, etc. Keep a running list on the board for them to see.
                     </li>
                     <li>Explain to students that Chapter 1 of Blown to Bits makes the point that today everything is digital -- that is, everything is represented by binary digits or bits. And it provides some provocative examples of the societal implications of this digital explosion. Direct students to read Chapter 1 to learn more about how digital our world has become. 
                     </li>
                 </ul>
-                <li>
-                <b>Experiences and Explorations (25 minutes):</b>
+            <li><b>Experiences and Explorations (25 minutes):</b></li>
                     <ul>
-                        <li>Introduce the textbook to the students and give them the Double Entry Journal Template to record their thoughts. Students should read pg. 1-4 in Chapter 1 of Blown to Bits and Koan 4. Students should record at least 4 quotes or thoughts in the journal. 
-                        </li>
-                        <li>In small groups of 3-4 students, discuss the reading. Have each student share at least one of their quotes from the reading. 
-                        </li>
-                        <li>
-                            Ask each group to share one idea from their discussion with the whole class. 
-                        </li>
+                        <li>Introduce the textbook to the students and give them the Double Entry Journal Template to record their thoughts. Students should read pg. 1-4 in Chapter 1 of Blown to Bits and Koan 4. Students should record at least 4 quotes or thoughts in the journal. </li>
+                        <li>In small groups of 3-4 students, discuss the reading. Have each student share at least one of their quotes from the reading. </li>
+                        <li>Ask each group to share one idea from their discussion with the whole class. </li>
                     </ul>
-                 </li>
-            <li>
-                <b>Rethink, Reflect, and Revise (10 minutes):</b>
+            <li><b>Rethink, Reflect, and Revise (10 minutes):</b>
                 <ul>
-                    <li>Introduce the journal assignment and hand out the tracking your technology use template. (See directions on student side). Ask students to make predictions of how many different objects they will interact with that process digital data, or bits. 
-                    </li>
+                    <li>Introduce the journal assignment and hand out the tracking your technology use template. (See directions on student side). Ask students to make predictions of how many different objects they will interact with that process digital data, or bits. </li>
                 </ul>
             </li>
         </ul>
-        <p><b>Day 2 (45 minutes) </b></p>
+        <p style="padding-left: 25px"><b>Day 2 (45 minutes) </b></p>
         <ul>
-            <li>
-                <b>Hook/Motivation (15 Minutes): </b>
+            <li><b>Hook/Motivation (15 Minutes): </b></li>
                 <ul>
-                    <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions?
-                    </li>
+                    <li>Have students share the types of objects and the number of times they used them using some kind of data tracking (board, spreadsheet, etc.) - can they be organized into categories or types of some kind? How do these compare to their predictions? </li>
                 </ul>
-            <li>
-                <b>Experiences and Explorations (25 minutes): </b>
+            <li><b>Experiences and Explorations (25 minutes): </b></li>
                 <ul>
-                    <li>Ask students if there are both positive and negative impacts from the technology they used? Ask them if they believe that the technology itself is good or bad? <em>They will likely identify positive impacts and may have difficulty with negative impacts. The discussion after the reading should help them to better identify negative impacts of using technology.</em>
-                    </li>
-                    <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) 
-                    </li>
-                    <li>Students should get into groups of 4, then use the Debate Team Carousel handout with one of the following questions/topics. Each group can have the same or a different topic. 
-                    </li>
+                    <li>Ask students if there are both positive and negative impacts from the technology they used? Ask them if they believe that the technology itself is good or bad? <em>They will likely identify positive impacts and may have difficulty with negative impacts. The discussion after the reading should help them to better identify negative impacts of using technology.</em></li>
+                    <li>Students should read the second part of Chapter 1, Good and Ill, Promise and Peril (pg. 13-16). (This could also be assigned to read outside of class.) </li>
+                    <li>Students should get into groups of 4, then use the Debate Team Carousel handout with one of the following questions/topics. Each group can have the same or a different topic. </li>
                     <ul>
                         <li><a href="https://www.diigo.com/user/mobilecsp">Select topics based on the list of current events articles at diigo.com/user/mobilecsp. </a></li>
                         <li>Examples of Questions: Should voting be electronic? Should apps be used to help track and diagnose mental health? Should digital assistants (such as Alexa) talk like humans? 
                         </li>
                     </ul>
                 </ul>
-            </li>
-            <li>
-                <b>Rethink, Reflect, and Revise (10 minutes): </b>
+            <li><b>Rethink, Reflect, and Revise (10 minutes): </b></li>
                 <ul>
-                    <li>Pick a current real-world example that students can explore. (Examples might be Google Glass, Apple Watch, FitBits) Students should describe what the product/initiative is and also discuss its positive and negative implications on life in the Digital Age. Students will need to find a similar example for their portfolio reflection. 
-                    </li>
+                    <li>Pick a current real-world example that students can explore. (Examples might be Google Glass, Apple Watch, FitBits) Students should describe what the product/initiative is and also discuss its positive and negative implications on life in the Digital Age. Students will need to find a similar example for their portfolio reflection. </li>
                 </ul>
-            </li>
         </ul>
-
 <p><b>Lesson 3.10 Impacts of CS Electronic Documents </b></p>
             <ul>
                 <li><b>Hook/Motivation (5 minutes):</b> For a pre-reading activity, ask students: How is a digital image a model? Can you give an example? Emphasize that a digital image is a model. Optional - review answers to portfolio questions from Lesson 3.3: Image Representation. Explain to students that Chapter 3 of Blown to Bits describes how digital documents, including images and sounds, are represented by sequences of bits.</li>

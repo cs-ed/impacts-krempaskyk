@@ -98,10 +98,9 @@ This is the <a href="https://runestone.academy/runestone/books/published/mobilec
 
 
 ### Learning Activities
-<p><b>Lesson 2.11 Impacts of CS The Digital Explosion</b></p>
-<p style="padding-left: 25px"><b>Day 1 (45 Minutes)</b></p>
-        <ul>            
-            <li><b>Hook/Motivation (5 Minutes):</b></li>
+**Lesson 2.11 Impacts of CS The Digital Explosion<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 (45 Minutes)**
+            <ul><li><b>Hook/Motivation (5 Minutes):</b></li>
                 <ul>
                     <li>Ask the students to look around their classroom and identify things that process digital data, or bits. This might include: computers, calculators, light switches (with sensors), smart boards, projectors, phones/tablets, etc. Keep a running list on the board for them to see.
                     </li>
